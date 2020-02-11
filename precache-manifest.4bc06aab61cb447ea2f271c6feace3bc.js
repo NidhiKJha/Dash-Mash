@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dash-mash/static/js/2.ea48940d.chunk.js"
   },
   {
-    "revision": "66592fa4777a9602f475591a5e62c547",
-    "url": "/dash-mash/static/media/logo_light.66592fa4.svg"
-  },
-  {
     "revision": "6cd04c4e80726f49e43dd72e2a0ac2c8",
     "url": "/dash-mash/static/media/logo_dark.6cd04c4e.svg"
+  },
+  {
+    "revision": "66592fa4777a9602f475591a5e62c547",
+    "url": "/dash-mash/static/media/logo_light.66592fa4.svg"
   },
   {
     "revision": "c466710e777586d520df92e23e5c12d3",
