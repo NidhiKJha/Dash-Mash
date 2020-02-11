@@ -17,13 +17,30 @@ class SidebarContent extends Component {
     return (
       <div className="sidebar__content">
         <ul className="sidebar__block">
-          <SidebarLink title="Log Out" icon="exit" route="/log_in" onClick={this.hideSidebar} />
+          <SidebarLink title="Test" icon="exit" route="/pages/one" onClick={this.hideSidebar} />
+        </ul>
+        <ul className="sidebar__block">
+          <SidebarLink title="Check" icon="exit" route="/pages/one" onClick={this.hideSidebar} />
+        </ul>
+        <ul className="sidebar__block">
+          <SidebarLink title="Test2" icon="exit" route="/pages/two" onClick={this.hideSidebar} />
+        </ul>
+        <ul className="sidebar__block">
+          <SidebarLink title="Test3" icon="exit" route="/pages/two" onClick={this.hideSidebar} />
+        </ul>
+        <ul className="sidebar__block">
+          <SidebarLink title="Test4" icon="exit" route="/pages/two" onClick={this.hideSidebar} />
         </ul>
         <ul className="sidebar__block">
           <SidebarCategory title="Example Pages" icon="diamond">
             <SidebarLink title="Page one" route="/pages/one" onClick={this.hideSidebar} />
             <SidebarLink title="Page two" route="/pages/two" onClick={this.hideSidebar} />
+            <SidebarLink title="Test" route="/pages/two" onClick={this.hideSidebar} />
+            <SidebarLink title="Testt" route="/pages/two" onClick={this.hideSidebar} />
+            <SidebarLink title="ABC" route="/pages/two" onClick={this.hideSidebar} />
+            <SidebarLink title="Lorel Impsum" route="/pages/two" onClick={this.hideSidebar} />
           </SidebarCategory>
+          
         </ul>
       </div>
     );

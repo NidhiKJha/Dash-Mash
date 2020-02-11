@@ -1,70 +1,108 @@
-import React, {Component} from 'react';
-import {Bar, Line, Pie} from 'react-chartjs-2';
+import React, { Component } from "react";
+import { Card, CardBody, Col,Row } from 'reactstrap';
 
-class Chart extends Component{
-  constructor(props){
+import { Bar, Line, Pie, Doughnut} from "react-chartjs-2";
+
+class Chart extends Component {
+  constructor(props) {
     super(props);
     this.state = {
-      chartData:props.chartData
-    }
+      chartData: props.chartData
+    };
   }
 
   static defaultProps = {
-    displayTitle:true,
+    displayTitle: true,
     displayLegend: true,
-    legendPosition:'right',
-    location:'City'
-  }
+    legendPosition: "right",
+    location: "City"
+  };
 
-  render(){
+  render() {
     return (
-      <div className="chart">
-        <Bar
-          data={this.state.chartData}
-          options={{
-            title:{
-              display:this.props.displayTitle,
-              text:'Largest Cities In '+this.props.location,
-              fontSize:25
-            },
-            legend:{
-              display:this.props.displayLegend,
-              position:this.props.legendPosition
-            }
-          }}
-        />
-
-        <Line
-          data={this.state.chartData}
-          options={{
-            title:{
-              display:this.props.displayTitle,
-              text:'Largest Cities In '+this.props.location,
-              fontSize:25
-            },
-            legend:{
-              display:this.props.displayLegend,
-              position:this.props.legendPosition
-            }
-          }}
-        />
-
-        <Pie
-          data={this.state.chartData}
-          options={{
-            title:{
-              display:this.props.displayTitle,
-              text:'Largest Cities In '+this.props.location,
-              fontSize:25
-            },
-            legend:{
-              display:this.props.displayLegend,
-              position:this.props.legendPosition
-            }
-          }}
-        />
-      </div>
-    )
+      <Row className="chart">
+        <Col md={6}>
+        <Card>
+      <CardBody>
+          <Bar
+            data={this.state.chartData}
+            options={{
+              title: {
+                display: this.props.displayTitle,
+                text: "Yearly Total Investment In"+ this.props.location,
+                fontSize: 25
+              },
+              legend: {
+                display: this.props.displayLegend,
+                position: this.props.legendPosition
+              }
+            }}
+          />
+          </CardBody>
+          </Card>
+        </Col>
+        <Col md={6}>
+        <Card>
+      <CardBody>
+          <Line
+            data={this.state.chartData}
+            options={{
+              title: {
+                display: this.props.displayTitle,
+                text: "Total Investment In " + this.props.location,
+                fontSize: 25
+              },
+              legend: {
+                display: this.props.displayLegend,
+                position: this.props.legendPosition
+              }
+            }}
+          />
+          </CardBody>
+          </Card>
+        </Col>
+        <Col md={6}>
+        <Card>
+      <CardBody>
+          <Pie
+            data={this.state.chartData}
+            options={{
+              title: {
+                display: this.props.displayTitle,
+                text: "Market Value In " + this.props.location,
+                fontSize: 25
+              },
+              legend: {
+                display: this.props.displayLegend,
+                position: this.props.legendPosition
+              }
+            }}
+          />
+          </CardBody>
+          </Card>
+        </Col>
+        <Col md={6}>
+        <Card>
+      <CardBody>
+          <Doughnut
+            data={this.state.chartData}
+            options={{
+              title: {
+                display: this.props.displayTitle,
+                text: "Investment by Assets In " + this.props.location,
+                fontSize: 25
+              },
+              legend: {
+                display: this.props.displayLegend,
+                position: this.props.legendPosition
+              }
+            }}
+          />
+          </CardBody>
+          </Card>
+        </Col>
+      </Row>
+    );
   }
 }
 

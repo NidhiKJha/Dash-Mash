@@ -20,10 +20,10 @@ getChartData(){
   // Ajax calls here
   this.setState({
     chartData:{
-      labels: ['Boston', 'Worcester', 'Springfield', 'Lowell', 'Cambridge', 'New Bedford'],
+      labels: ['Bitcoin', 'Ethereum', 'Bitcoin Cash', 'Bitcoin SV', 'XRP', 'Ethereum Classic'],
       datasets:[
         {
-          label:'Population',
+          label:'Investment',
           data:[
             617594,
             181045,
@@ -51,21 +51,18 @@ getChartData(){
 
 render() {
   return (
-    <div className = "header">
+    <div className = "header col-lg-12">
      <Header/>
    
   <Col md={12}>
-    <Card>
-      <CardBody>
-        <div className="card__title">
+    
+        <div className="card__title" >
 
           
         <Chart chartData={this.state.chartData} location="CryptoChart" legendPosition="bottom"/>
         </div>
-        <p>Your content here</p>
-      </CardBody>
-    </Card>
-  </Col>
+        <p>Content....</p>
+     </Col>
   </div>
 );
   }}
