@@ -30,7 +30,7 @@ class Chart extends Component {
               title: {
                 display: this.props.displayTitle,
                 text: "Yearly Total Investment In"+ this.props.location,
-                fontSize: 25
+                fontSize: 18
               },
               legend: {
                 display: this.props.displayLegend,
@@ -50,7 +50,7 @@ class Chart extends Component {
               title: {
                 display: this.props.displayTitle,
                 text: "Total Investment In " + this.props.location,
-                fontSize: 25
+                fontSize: 18
               },
               legend: {
                 display: this.props.displayLegend,
@@ -70,7 +70,7 @@ class Chart extends Component {
               title: {
                 display: this.props.displayTitle,
                 text: "Market Value In " + this.props.location,
-                fontSize: 25
+                fontSize: 18
               },
               legend: {
                 display: this.props.displayLegend,
@@ -90,7 +90,7 @@ class Chart extends Component {
               title: {
                 display: this.props.displayTitle,
                 text: "Investment by Assets In " + this.props.location,
-                fontSize: 25
+                fontSize: 18
               },
               legend: {
                 display: this.props.displayLegend,
