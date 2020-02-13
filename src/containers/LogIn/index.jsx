@@ -4,6 +4,7 @@ import FacebookIcon from 'mdi-react/FacebookIcon';
 import GooglePlusIcon from 'mdi-react/GooglePlusIcon';
 import LogInForm from './components/LogInForm';
 
+
 const LogIn = () => (
   <div className="account">
     <div className="account__wrapper">
@@ -17,6 +18,7 @@ const LogIn = () => (
           <h4 className="account__subhead subhead">Start your business easily</h4>
         </div>
         <LogInForm />
+       
         <div className="account__or">
           <p>Or Easily Using</p>
         </div>

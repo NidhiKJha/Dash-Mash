@@ -1,0 +1,1202 @@
+[
+  {
+    "ISIN": "INE115A07ML7",
+    "Descriptor": "LIC HOUSING FINANCE LIMITED SRTR349OP-1 7.4NCD06SP24FVRS10LACLOAUPT30NV17",
+    "Weighted Average Price": 100.2345,
+    "Last Trade Price": 100.2497,
+    "Weighted  Average Yield (YTM) (%)": 7.314,
+    "Last  Trade Yield  (Annualized) (%)": 7.31,
+    "Value (₹ Lakhs)": "62,000.00",
+    "No. of Trades": 16
+  },
+  {
+    "ISIN": "INE572E09577",
+    "Descriptor": "PNB HOUSING FINANCE LTD SR XLIII OPT A LOA 28FB20 FVRS10LAC",
+    "Weighted Average Price": 116.9617,
+    "Last Trade Price": 116.9616,
+    "Weighted  Average Yield (YTM) (%)": 8.5,
+    "Last  Trade Yield  (Annualized) (%)": 8.5,
+    "Value (₹ Lakhs)": "25,000.00",
+    "No. of Trades": 3
+  },
+  {
+    "ISIN": "INE020B08AV9",
+    "Descriptor": "RURAL ELECTRIFICATION CORPORATION LIMITED SR 161 A 7.59 BD 13MR20 FVRS10LAC",
+    "Weighted Average Price": 100.182,
+    "Last Trade Price": 100.182,
+    "Weighted  Average Yield (YTM) (%)": 5.3,
+    "Last  Trade Yield  (Annualized) (%)": 5.3,
+    "Value (₹ Lakhs)": "21,000.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE115A07MJ1",
+    "Descriptor": "LIC HOUSING FINANCE LIMITED TR348OPT1 7.39NCD30AG22FVRS10LACLOAUPTO30NV17",
+    "Weighted Average Price": 100.3565,
+    "Last Trade Price": 100.3565,
+    "Weighted  Average Yield (YTM) (%)": 7.1998,
+    "Last  Trade Yield  (Annualized) (%)": 7.1998,
+    "Value (₹ Lakhs)": "19,500.00",
+    "No. of Trades": 3
+  },
+  {
+    "ISIN": "INE261F08BA2",
+    "Descriptor": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SERIES PMAY-G PB-4 8.42 BD 13FB29 FVRS10LAC",
+    "Weighted Average Price": 108.0949,
+    "Last Trade Price": 108.279,
+    "Weighted  Average Yield (YTM) (%)": 7.3077,
+    "Last  Trade Yield  (Annualized) (%)": 7.28,
+    "Value (₹ Lakhs)": "15,000.00",
+    "No. of Trades": 11
+  },
+  {
+    "ISIN": "INE020B08CJ0",
+    "Descriptor": "REC LIMITED SERIES 189 7.92 BD 31MR30 FVRS10LAC",
+    "Weighted Average Price": 101.9428,
+    "Last Trade Price": 102.4164,
+    "Weighted  Average Yield (YTM) (%)": 7.6382,
+    "Last  Trade Yield  (Annualized) (%)": 7.57,
+    "Value (₹ Lakhs)": "14,000.00",
+    "No. of Trades": 7
+  },
+  {
+    "ISIN": "INE040A08377",
+    "Descriptor": "HDFC BANK LIMITED SR-1 8.85 BD PERPETUAL FVRS10LAC",
+    "Weighted Average Price": 102.5069,
+    "Last Trade Price": 102.5361,
+    "Weighted  Average Yield (YTM) (%)": 7.5643,
+    "Last  Trade Yield  (Annualized) (%)": 7.55,
+    "Value (₹ Lakhs)": "12,800.00",
+    "No. of Trades": 6
+  },
+  {
+    "ISIN": "INE557F08FC0",
+    "Descriptor": "NATIONAL HOUSING BANK 8.05 LOA 10JN22 FVRS10LAC",
+    "Weighted Average Price": 100.196,
+    "Last Trade Price": 100.196,
+    "Weighted  Average Yield (YTM) (%)": 5.45,
+    "Last  Trade Yield  (Annualized) (%)": 5.45,
+    "Value (₹ Lakhs)": "12,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE020B08880",
+    "Descriptor": "RURAL ELECTRIFICATION CORPORATION LIMITED SR-128 8.57 BD 21DC24 FVRS10LAC",
+    "Weighted Average Price": 106.6279,
+    "Last Trade Price": 106.6448,
+    "Weighted  Average Yield (YTM) (%)": 6.9127,
+    "Last  Trade Yield  (Annualized) (%)": 6.9083,
+    "Value (₹ Lakhs)": "12,500.00",
+    "No. of Trades": 5
+  },
+  {
+    "ISIN": "INE861G08050",
+    "Descriptor": "FOOD CORPORATION OF INDIA SERIES VIII 7.64 LOA 12DC29 FVRS10LAC",
+    "Weighted Average Price": 102.6276,
+    "Last Trade Price": 102.5979,
+    "Weighted  Average Yield (YTM) (%)": 7.2459,
+    "Last  Trade Yield  (Annualized) (%)": 7.25,
+    "Value (₹ Lakhs)": "10,400.00",
+    "No. of Trades": 8
+  },
+  {
+    "ISIN": "INE020B08CF8",
+    "Descriptor": "REC LIMITED SERIES 186B 7.40 NCD 26NV24 FVRS10LAC",
+    "Weighted Average Price": 102.1152,
+    "Last Trade Price": 102.1152,
+    "Weighted  Average Yield (YTM) (%)": 6.85,
+    "Last  Trade Yield  (Annualized) (%)": 6.85,
+    "Value (₹ Lakhs)": "10,000.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE053F07BU3",
+    "Descriptor": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 140 7.48 BD 13AG29 FVRS10LAC LOAUPTO12AG19",
+    "Weighted Average Price": 101.6388,
+    "Last Trade Price": 101.6538,
+    "Weighted  Average Yield (YTM) (%)": 7.2343,
+    "Last  Trade Yield  (Annualized) (%)": 7.232,
+    "Value (₹ Lakhs)": "10,000.00",
+    "No. of Trades": 3
+  },
+  {
+    "ISIN": "INE261F08BN5",
+    "Descriptor": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT NCD SR 20F 7.18 LOA 08AG22 FVRS10LAC",
+    "Weighted Average Price": 102.0233,
+    "Last Trade Price": 102.0233,
+    "Weighted  Average Yield (YTM) (%)": 6.25,
+    "Last  Trade Yield  (Annualized) (%)": 6.25,
+    "Value (₹ Lakhs)": "8,500.00",
+    "No. of Trades": 3
+  },
+  {
+    "ISIN": "INE296A07PZ8",
+    "Descriptor": "BAJAJ FINANCE LIMITED SR-218 7.62 NCD 15JU20 FVRS10LAC",
+    "Weighted Average Price": 100.5414,
+    "Last Trade Price": 100.5414,
+    "Weighted  Average Yield (YTM) (%)": 5.75,
+    "Last  Trade Yield  (Annualized) (%)": 5.75,
+    "Value (₹ Lakhs)": "8,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE115A07NP6",
+    "Descriptor": "LIC HOUSING FINANCE LIMITED 372OPT28.75 NCD08DC28 FV10LAC LOAUPTO27DC18",
+    "Weighted Average Price": 106.1223,
+    "Last Trade Price": 106.2653,
+    "Weighted  Average Yield (YTM) (%)": 7.7521,
+    "Last  Trade Yield  (Annualized) (%)": 7.73,
+    "Value (₹ Lakhs)": "7,500.00",
+    "No. of Trades": 5
+  },
+  {
+    "ISIN": "INE020B08AB1",
+    "Descriptor": "RURAL ELECTRIFICATION CORPORATION LIMITED SR-141 7.14 BD 09DC21 FVRS10LAC",
+    "Weighted Average Price": 101.3096,
+    "Last Trade Price": 101.3152,
+    "Weighted  Average Yield (YTM) (%)": 6.3433,
+    "Last  Trade Yield  (Annualized) (%)": 6.34,
+    "Value (₹ Lakhs)": "7,500.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE115A07GX4",
+    "Descriptor": "LIC HOUSING FINANCE LIMITED 8.68 NCD 30MR20 FVRS10LAC LOA UPTO 23JL15",
+    "Weighted Average Price": 100.3871,
+    "Last Trade Price": 100.3871,
+    "Weighted  Average Yield (YTM) (%)": 5.35,
+    "Last  Trade Yield  (Annualized) (%)": 5.35,
+    "Value (₹ Lakhs)": "6,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE261F08AI7",
+    "Descriptor": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR-19B 8.60 BD 31JN22 FVRS10LAC",
+    "Weighted Average Price": 104.42,
+    "Last Trade Price": 104.42,
+    "Weighted  Average Yield (YTM) (%)": 6.14,
+    "Last  Trade Yield  (Annualized) (%)": 6.14,
+    "Value (₹ Lakhs)": "6,500.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE001A07RC7",
+    "Descriptor": "HOUSING DEVELOPMENT FINANCE CORPORATION LTD SR-S-004 7.4 NCD 17NV20 FVRS1CR LOAUPTO08OT17",
+    "Weighted Average Price": 100.7336,
+    "Last Trade Price": 100.751,
+    "Weighted  Average Yield (YTM) (%)": 6.2731,
+    "Last  Trade Yield  (Annualized) (%)": 6.25,
+    "Value (₹ Lakhs)": "6,500.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE261F08BO3",
+    "Descriptor": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 20G 6.98 LOA 19SP22 FVRS10LAC",
+    "Weighted Average Price": 101.6007,
+    "Last Trade Price": 101.6464,
+    "Weighted  Average Yield (YTM) (%)": 6.2692,
+    "Last  Trade Yield  (Annualized) (%)": 6.25,
+    "Value (₹ Lakhs)": "6,500.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE001A07RL8",
+    "Descriptor": "HOUSING DEVELOPMENT FINANCE CORPORATION LTD SERIES U-006 8.80 NCD 18JU20 FVRS10LAC",
+    "Weighted Average Price": 100.9334,
+    "Last Trade Price": 100.9162,
+    "Weighted  Average Yield (YTM) (%)": 5.8,
+    "Last  Trade Yield  (Annualized) (%)": 5.8,
+    "Value (₹ Lakhs)": "6,500.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE906B07HJ1",
+    "Descriptor": "NATIONAL HIGHWAYS AUTHORITY OF INDIA SR VII 7.98 BD 23DC49 FVRS10LAC",
+    "Weighted Average Price": 104.4347,
+    "Last Trade Price": 104.3336,
+    "Weighted  Average Yield (YTM) (%)": 7.5917,
+    "Last  Trade Yield  (Annualized) (%)": 7.6,
+    "Value (₹ Lakhs)": "6,000.00",
+    "No. of Trades": 3
+  },
+  {
+    "ISIN": "INE238A08468",
+    "Descriptor": "AXIS BANK LIMITED SR 5 7.65 NCD 30JN27 FVRS10LAC",
+    "Weighted Average Price": 101.9266,
+    "Last Trade Price": 101.9266,
+    "Weighted  Average Yield (YTM) (%)": 7.28,
+    "Last  Trade Yield  (Annualized) (%)": 7.28,
+    "Value (₹ Lakhs)": "5,500.00",
+    "No. of Trades": 4
+  },
+  {
+    "ISIN": "INE752E08619",
+    "Descriptor": "POWER GRID CORPORATION OF INDIA LIMITED SR LXIV STRP C 7.49 LOA 25OT34 FVRS4LAC",
+    "Weighted Average Price": 102.295,
+    "Last Trade Price": 102.295,
+    "Weighted  Average Yield (YTM) (%)": 7.22,
+    "Last  Trade Yield  (Annualized) (%)": 7.22,
+    "Value (₹ Lakhs)": "5,000.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE752E07KN9",
+    "Descriptor": "POWER GRID CORPORATION OF INDIA LIMITED 8.8 BD 13MR23 FVRS10LAC LOA UPTO 10JU13",
+    "Weighted Average Price": 107.2378,
+    "Last Trade Price": 107.2521,
+    "Weighted  Average Yield (YTM) (%)": 6.145,
+    "Last  Trade Yield  (Annualized) (%)": 6.14,
+    "Value (₹ Lakhs)": "5,000.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE906B07HH5",
+    "Descriptor": "NATIONAL HIGHWAYS AUTHORITY OF INDIA SR V 7.70 BD 13SP29 FVRS10LAC",
+    "Weighted Average Price": 102.5874,
+    "Last Trade Price": 102.5874,
+    "Weighted  Average Yield (YTM) (%)": 7.3,
+    "Last  Trade Yield  (Annualized) (%)": 7.3,
+    "Value (₹ Lakhs)": "5,000.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE115A07OH1",
+    "Descriptor": "LIC HOUSING FINANCE LIMITED TR 388 7.60 LOA 22NV22 FVRS10LAC",
+    "Weighted Average Price": 101.4168,
+    "Last Trade Price": 101.4168,
+    "Weighted  Average Yield (YTM) (%)": 7,
+    "Last  Trade Yield  (Annualized) (%)": 7,
+    "Value (₹ Lakhs)": "5,000.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE134E08KH0",
+    "Descriptor": "POWER FINANCE CORPORATION LTD. SERIES 192 7.42 BD 19NV24 FVRS10LAC",
+    "Weighted Average Price": 101.04,
+    "Last Trade Price": 101.25,
+    "Weighted  Average Yield (YTM) (%)": 7.1347,
+    "Last  Trade Yield  (Annualized) (%)": 7.08,
+    "Value (₹ Lakhs)": "5,000.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE756I08181",
+    "Descriptor": "HDB FINANCIAL SERVICES LIMITED SR 2019/I/1/16 8.85 BD 07JU29 FVRS10LAC",
+    "Weighted Average Price": 104.34,
+    "Last Trade Price": 104.34,
+    "Weighted  Average Yield (YTM) (%)": 8.15,
+    "Last  Trade Yield  (Annualized) (%)": 8.15,
+    "Value (₹ Lakhs)": "5,000.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE115A07OJ7",
+    "Descriptor": "LIC HOUSING FINANCE LIMITED TRANCHE 390 7.4450 LOA 13JN23 FVRS10LAC",
+    "Weighted Average Price": 101.0024,
+    "Last Trade Price": 101.0024,
+    "Weighted  Average Yield (YTM) (%)": 7.04,
+    "Last  Trade Yield  (Annualized) (%)": 7.04,
+    "Value (₹ Lakhs)": "5,000.00",
+    "No. of Trades": 3
+  },
+  {
+    "ISIN": "INE01XX07026",
+    "Descriptor": "PIPELINE INFRASTRUCTURE LIMITED 8.9508 LOA 22MR24 FVRS10LAC",
+    "Weighted Average Price": 101.2798,
+    "Last Trade Price": 101.2798,
+    "Weighted  Average Yield (YTM) (%)": 8.85,
+    "Last  Trade Yield  (Annualized) (%)": 8.85,
+    "Value (₹ Lakhs)": "5,000.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE148I07GE8",
+    "Descriptor": "INDIABULLS HOUSING FINANCE LIMITED SRIIICATI&II8.75NCD26SP21FV1000LOAUP25SP16",
+    "Weighted Average Price": 77.375,
+    "Last Trade Price": 77.5,
+    "Weighted  Average Yield (YTM) (%)": 27.6678,
+    "Last  Trade Yield  (Annualized) (%)": 27.5384,
+    "Value (₹ Lakhs)": "5,000.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE053F07AC3",
+    "Descriptor": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SR-123 7.33 BD 28AG27 FVRS10LAC LOAUPTO28SP17",
+    "Weighted Average Price": 101.2876,
+    "Last Trade Price": 101.2876,
+    "Weighted  Average Yield (YTM) (%)": 7.1,
+    "Last  Trade Yield  (Annualized) (%)": 7.1,
+    "Value (₹ Lakhs)": "5,000.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE540P07079",
+    "Descriptor": "U.P. POWER CORPORATION LIMITED SR-III-D 8.97 BD 15FB24 FVRS10LAC",
+    "Weighted Average Price": 100.57,
+    "Last Trade Price": 100.57,
+    "Weighted  Average Yield (YTM) (%)": 9.07,
+    "Last  Trade Yield  (Annualized) (%)": 9.07,
+    "Value (₹ Lakhs)": "4,280.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE020B08BS3",
+    "Descriptor": "REC LIMITED SR 178 8.80 BD 14MY29 FVRS10LAC",
+    "Weighted Average Price": 107.8148,
+    "Last Trade Price": 107.8148,
+    "Weighted  Average Yield (YTM) (%)": 7.58,
+    "Last  Trade Yield  (Annualized) (%)": 7.58,
+    "Value (₹ Lakhs)": "4,000.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE861G08035",
+    "Descriptor": "FOOD CORPORATION OF INDIA SRVI 9.95 BD 07MR22 FVRS10LAC LOA UPTO 24AP14",
+    "Weighted Average Price": 107.1876,
+    "Last Trade Price": 107.1876,
+    "Weighted  Average Yield (YTM) (%)": 6.15,
+    "Last  Trade Yield  (Annualized) (%)": 6.15,
+    "Value (₹ Lakhs)": "3,500.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE053F07BT5",
+    "Descriptor": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 139 7.54 LOA 29JL34 FVRS10LAC",
+    "Weighted Average Price": 102.2465,
+    "Last Trade Price": 102.2465,
+    "Weighted  Average Yield (YTM) (%)": 7.28,
+    "Last  Trade Yield  (Annualized) (%)": 7.28,
+    "Value (₹ Lakhs)": "3,500.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE296A07PW5",
+    "Descriptor": "BAJAJ FINANCE LIMITED SR-215 OPT I 7.77 NCD 29MY20 FVRS10LAC",
+    "Weighted Average Price": 100.5092,
+    "Last Trade Price": 100.5092,
+    "Weighted  Average Yield (YTM) (%)": 5.75,
+    "Last  Trade Yield  (Annualized) (%)": 5.75,
+    "Value (₹ Lakhs)": "3,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE861G08068",
+    "Descriptor": "FOOD CORPORATION OF INDIA SR VII A 7.60 LOA 09JN30 FVRS10LAC",
+    "Weighted Average Price": 101.795,
+    "Last Trade Price": 102.4909,
+    "Weighted  Average Yield (YTM) (%)": 7.3303,
+    "Last  Trade Yield  (Annualized) (%)": 7.23,
+    "Value (₹ Lakhs)": "3,470.00",
+    "No. of Trades": 6
+  },
+  {
+    "ISIN": "INE535H08744",
+    "Descriptor": "FULLERTON INDIA CREDIT COMPANY LTD SR-15 9.25 NCD 26AP29 FVRS10LAC",
+    "Weighted Average Price": 100.21,
+    "Last Trade Price": 100.39,
+    "Weighted  Average Yield (YTM) (%)": 9.1962,
+    "Last  Trade Yield  (Annualized) (%)": 9.165,
+    "Value (₹ Lakhs)": "3,000.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE261F08BV8",
+    "Descriptor": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR LTIF 4D 7.57 LOA 03JN35 FVRS10LAC",
+    "Weighted Average Price": 101.5904,
+    "Last Trade Price": 101.6058,
+    "Weighted  Average Yield (YTM) (%)": 7.38,
+    "Last  Trade Yield  (Annualized) (%)": 7.38,
+    "Value (₹ Lakhs)": "2,980.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE115A07OD0",
+    "Descriptor": "LIC HOUSING FINANCE LIMITED TRANCHE 384 8.5 LOA 20JU22 FVRS10LAC",
+    "Weighted Average Price": 103.1609,
+    "Last Trade Price": 103.1609,
+    "Weighted  Average Yield (YTM) (%)": 6.97,
+    "Last  Trade Yield  (Annualized) (%)": 6.97,
+    "Value (₹ Lakhs)": "2,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE002A08476",
+    "Descriptor": "RELIANCE INDUSTRIES LIMITED SR-A 7 NCD 31AG22 FVRS10LAC LOAUPTO13NV17",
+    "Weighted Average Price": 101.1251,
+    "Last Trade Price": 101.1251,
+    "Weighted  Average Yield (YTM) (%)": 6.48,
+    "Last  Trade Yield  (Annualized) (%)": 6.48,
+    "Value (₹ Lakhs)": "2,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE001A07SD3",
+    "Descriptor": "HOUSING DEVELOPMENT FINANCE CORPORATION LTD SR W-005 7.21 NCD 30DC22 FVRS10LAC",
+    "Weighted Average Price": 101.0023,
+    "Last Trade Price": 101.0023,
+    "Weighted  Average Yield (YTM) (%)": 6.8,
+    "Last  Trade Yield  (Annualized) (%)": 6.8,
+    "Value (₹ Lakhs)": "2,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE020B08CD3",
+    "Descriptor": "REC LIMITED SEREIS 185 7.09 BD 13DC22 FVRS10LAC",
+    "Weighted Average Price": 100.81,
+    "Last Trade Price": 100.81,
+    "Weighted  Average Yield (YTM) (%)": 6.75,
+    "Last  Trade Yield  (Annualized) (%)": 6.75,
+    "Value (₹ Lakhs)": "2,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE115A07FW8",
+    "Descriptor": "LIC HOUSING FINANCE LIMITED 9.24 NCD 30SP24 FVRS10LAC LOA UPTO 17DC14",
+    "Weighted Average Price": 106.9018,
+    "Last Trade Price": 106.9018,
+    "Weighted  Average Yield (YTM) (%)": 7.4,
+    "Last  Trade Yield  (Annualized) (%)": 7.4,
+    "Value (₹ Lakhs)": "2,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE062A08124",
+    "Descriptor": "STATE BANK OF INDIA SR-1 9 BD PERPETUAL FVRS10LAC",
+    "Weighted Average Price": 101.9198,
+    "Last Trade Price": 101.9198,
+    "Weighted  Average Yield (YTM) (%)": 7.5999,
+    "Last  Trade Yield  (Annualized) (%)": 7.5999,
+    "Value (₹ Lakhs)": "2,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE115A07KT4",
+    "Descriptor": "LIC HOUSING FINANCE LIMITED TR-315 7.585NCD11JU20FVRS10LACLOAUPTO02FB17",
+    "Weighted Average Price": 100.5286,
+    "Last Trade Price": 100.5286,
+    "Weighted  Average Yield (YTM) (%)": 5.85,
+    "Last  Trade Yield  (Annualized) (%)": 5.85,
+    "Value (₹ Lakhs)": "2,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE115A07FJ5",
+    "Descriptor": "LIC HOUSING FINANCE LIMITED 9.29 NCD 05JL24 FVRS10LAC LOA UPTO 17DC14",
+    "Weighted Average Price": 106.781,
+    "Last Trade Price": 106.781,
+    "Weighted  Average Yield (YTM) (%)": 7.4,
+    "Last  Trade Yield  (Annualized) (%)": 7.4,
+    "Value (₹ Lakhs)": "2,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE557F08FG1",
+    "Descriptor": "NATIONAL HOUSING BANK 7.05 LOA 18DC24 FVRS10LAC",
+    "Weighted Average Price": 102.5842,
+    "Last Trade Price": 102.5842,
+    "Weighted  Average Yield (YTM) (%)": 6.4,
+    "Last  Trade Yield  (Annualized) (%)": 6.4,
+    "Value (₹ Lakhs)": "2,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE261F08BB0",
+    "Descriptor": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR 19G 8.15 BD 22AG22 FVRS10LAC",
+    "Weighted Average Price": 101.0586,
+    "Last Trade Price": 101.0586,
+    "Weighted  Average Yield (YTM) (%)": 5.85,
+    "Last  Trade Yield  (Annualized) (%)": 5.85,
+    "Value (₹ Lakhs)": "2,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE115A07LR6",
+    "Descriptor": "LIC HOUSING FINANCE LIMITED TR335OPT1 7.74NCD05JU20FVRS10LACLOAUPTO21JU17",
+    "Weighted Average Price": 100.4854,
+    "Last Trade Price": 100.4854,
+    "Weighted  Average Yield (YTM) (%)": 6.05,
+    "Last  Trade Yield  (Annualized) (%)": 6.05,
+    "Value (₹ Lakhs)": "2,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE238A08450",
+    "Descriptor": "AXIS BANK LIMITED SERIES 4 8.60 NCD 28DC28 FVRS10LAC",
+    "Weighted Average Price": 106.8716,
+    "Last Trade Price": 106.8716,
+    "Weighted  Average Yield (YTM) (%)": 7.5,
+    "Last  Trade Yield  (Annualized) (%)": 7.5,
+    "Value (₹ Lakhs)": "2,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE537P07497",
+    "Descriptor": "INDIA INFRADEBT LIMITED SERIES I 8.60 NCD 30DC24 FVRS10LAC",
+    "Weighted Average Price": 100.24,
+    "Last Trade Price": 100.24,
+    "Weighted  Average Yield (YTM) (%)": 8.52,
+    "Last  Trade Yield  (Annualized) (%)": 8.52,
+    "Value (₹ Lakhs)": "2,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE027E07BD6",
+    "Descriptor": "L&T FINANCE LIMITED SR E 8.25 NCD 24JN23 FVRS10LAC",
+    "Weighted Average Price": 100.806,
+    "Last Trade Price": 100.806,
+    "Weighted  Average Yield (YTM) (%)": 7.92,
+    "Last  Trade Yield  (Annualized) (%)": 7.92,
+    "Value (₹ Lakhs)": "2,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE095A08082",
+    "Descriptor": "INDUSIND BANK LIMITED SERIES III-2019 10.5 NCD PERPEUAL FVRS10LAC",
+    "Weighted Average Price": 101.801,
+    "Last Trade Price": 102.2092,
+    "Weighted  Average Yield (YTM) (%)": 9.923,
+    "Last  Trade Yield  (Annualized) (%)": 9.8,
+    "Value (₹ Lakhs)": "2,030.00",
+    "No. of Trades": 5
+  },
+  {
+    "ISIN": "INE906B07HG7",
+    "Descriptor": "NATIONAL HIGHWAYS AUTHORITY OF INDIA SR IV 7.49 BD 01AG29 FVRS10LAC",
+    "Weighted Average Price": 100.4977,
+    "Last Trade Price": 101.1654,
+    "Weighted  Average Yield (YTM) (%)": 7.43,
+    "Last  Trade Yield  (Annualized) (%)": 7.3,
+    "Value (₹ Lakhs)": "2,000.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE001A07RR5",
+    "Descriptor": "HOUSING DEVELOPMENT FINANCE CORPORATION LTD SERIES V-002 8.51 NCD 15JL20 FVRS10LAC",
+    "Weighted Average Price": 100.8481,
+    "Last Trade Price": 100.8481,
+    "Weighted  Average Yield (YTM) (%)": 6.15,
+    "Last  Trade Yield  (Annualized) (%)": 6.15,
+    "Value (₹ Lakhs)": "2,000.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE053F07BX7",
+    "Descriptor": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SERIES 143 7.55 LOA 06NV29 FVRS10LAC",
+    "Weighted Average Price": 101.6335,
+    "Last Trade Price": 102.1145,
+    "Weighted  Average Yield (YTM) (%)": 7.3,
+    "Last  Trade Yield  (Annualized) (%)": 7.23,
+    "Value (₹ Lakhs)": "2,000.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE028A08190",
+    "Descriptor": "BANK OF BARODA SERIES XXIII 7.44 BD 03JN30 FVRS10LAC",
+    "Weighted Average Price": 100.4642,
+    "Last Trade Price": 100.6238,
+    "Weighted  Average Yield (YTM) (%)": 7.31,
+    "Last  Trade Yield  (Annualized) (%)": 7.27,
+    "Value (₹ Lakhs)": "2,000.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE115A07NU6",
+    "Descriptor": "LIC HOUSING FINANCE LIMITED SR TR 376 8.80 NCD 25JN29 10LAC LOAUPTO21AP19",
+    "Weighted Average Price": 106.4,
+    "Last Trade Price": 106.4,
+    "Weighted  Average Yield (YTM) (%)": 7.7725,
+    "Last  Trade Yield  (Annualized) (%)": 7.7725,
+    "Value (₹ Lakhs)": "1,600.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE053F07BY5",
+    "Descriptor": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SR 144 7.55 LOA 12AP30 FVRS10LAC",
+    "Weighted Average Price": 102.2583,
+    "Last Trade Price": 102.2583,
+    "Weighted  Average Yield (YTM) (%)": 7.23,
+    "Last  Trade Yield  (Annualized) (%)": 7.23,
+    "Value (₹ Lakhs)": "1,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE891K08059",
+    "Descriptor": "AXIS FINANCE LIMITED SR-03 8.08 NCD 14SP27 FVRS10LAC",
+    "Weighted Average Price": 98.34,
+    "Last Trade Price": 98.34,
+    "Weighted  Average Yield (YTM) (%)": 8.3626,
+    "Last  Trade Yield  (Annualized) (%)": 8.3626,
+    "Value (₹ Lakhs)": "1,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE115A07NN1",
+    "Descriptor": "LIC HOUSING FINANCE LIMITED TR371 9.02 NCD03DC20 FVRS10LAC LOAUPTO27DC18",
+    "Weighted Average Price": 101.843,
+    "Last Trade Price": 101.843,
+    "Weighted  Average Yield (YTM) (%)": 6.5,
+    "Last  Trade Yield  (Annualized) (%)": 6.5,
+    "Value (₹ Lakhs)": "1,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE031A08756",
+    "Descriptor": "HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR E 2019 6.99 LOA 11NV22 FVRS10LAC",
+    "Weighted Average Price": 101.6419,
+    "Last Trade Price": 101.6419,
+    "Weighted  Average Yield (YTM) (%)": 6.3,
+    "Last  Trade Yield  (Annualized) (%)": 6.3,
+    "Value (₹ Lakhs)": "1,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE134E08JY7",
+    "Descriptor": "POWER FINANCE CORPORATION LTD. SERIES 184 A 9.25 BD 25SP24 FVRS10LAC",
+    "Weighted Average Price": 107.8138,
+    "Last Trade Price": 107.8339,
+    "Weighted  Average Yield (YTM) (%)": 7.205,
+    "Last  Trade Yield  (Annualized) (%)": 7.2,
+    "Value (₹ Lakhs)": "1,500.00",
+    "No. of Trades": 3
+  },
+  {
+    "ISIN": "INE857Q08024",
+    "Descriptor": "TATA CLEANTECH CAPITAL LIMITED SR B 8.80 BD 13NV29 FVRS10LAC",
+    "Weighted Average Price": 101.3,
+    "Last Trade Price": 101.3,
+    "Weighted  Average Yield (YTM) (%)": 8.58,
+    "Last  Trade Yield  (Annualized) (%)": 8.58,
+    "Value (₹ Lakhs)": "1,500.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE850M07210",
+    "Descriptor": "NORTHERN ARC CAPITAL LIMITED 11.955 NCD 13JN22 FVRS10LAC",
+    "Weighted Average Price": 100.355,
+    "Last Trade Price": 100.38,
+    "Weighted  Average Yield (YTM) (%)": 12.0909,
+    "Last  Trade Yield  (Annualized) (%)": 12.06,
+    "Value (₹ Lakhs)": "1,000.00",
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE028A08166",
+    "Descriptor": "BOB SR 3 OPT-2 SR XXII 7.75 BD 11SP34 FVRS10LAC",
+    "Weighted Average Price": 101.2229,
+    "Last Trade Price": 101.2229,
+    "Weighted  Average Yield (YTM) (%)": 7.55,
+    "Last  Trade Yield  (Annualized) (%)": 7.55,
+    "Value (₹ Lakhs)": "1,000.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE752E07OG5",
+    "Descriptor": "POWER GRID CORPORATION OF INDIA LIMITED SR-LX 7.2 BD 09AG27 FVRS10LAC LOA UPTO 31DC17",
+    "Weighted Average Price": 100.4802,
+    "Last Trade Price": 100.4802,
+    "Weighted  Average Yield (YTM) (%)": 7.1,
+    "Last  Trade Yield  (Annualized) (%)": 7.1,
+    "Value (₹ Lakhs)": "1,000.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE062A08132",
+    "Descriptor": "STATE BANK OF INDIA SR-II 8.75 BD PERPETUAL FVRS10LAC",
+    "Weighted Average Price": 101.6981,
+    "Last Trade Price": 101.6981,
+    "Weighted  Average Yield (YTM) (%)": 7.5501,
+    "Last  Trade Yield  (Annualized) (%)": 7.5501,
+    "Value (₹ Lakhs)": "1,000.00",
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE906B07HK9",
+    "Descriptor": "NATIONAL HIGHWAYS AUTHORITY OF INDIA SERIES VIII 7.54 BD 27JN30 FVRS10LAC",
+    "Weighted Average Price": 100.8738,
+    "Last Trade Price": 100.9084,
+    "Weighted  Average Yield (YTM) (%)": 7.405,
+    "Last  Trade Yield  (Annualized) (%)": 7.4,
+    "Value (₹ Lakhs)": 940,
+    "No. of Trades": 3
+  },
+  {
+    "ISIN": "INE614B08021",
+    "Descriptor": "THE KARNATAKA BANK LIMITED 11 BD 17NV22 FVRS10LAC LOA UPTO 18NV12",
+    "Weighted Average Price": 102.32,
+    "Last Trade Price": 102.32,
+    "Weighted  Average Yield (YTM) (%)": 9.95,
+    "Last  Trade Yield  (Annualized) (%)": 9.95,
+    "Value (₹ Lakhs)": 850,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE906B07EI0",
+    "Descriptor": "NATIONAL HIGHWAYS AUTHORITY OF INDIA SR IIA 7.35 BD 11JN31 FVRS1000",
+    "Weighted Average Price": 113.3074,
+    "Last Trade Price": 113.459,
+    "Weighted  Average Yield (YTM) (%)": 5.6779,
+    "Last  Trade Yield  (Annualized) (%)": 5.66,
+    "Value (₹ Lakhs)": 560,
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE062A08223",
+    "Descriptor": "STATE BANK OF INDIA SERIES II 8.50 BD PERPETUAL FVRS10LAC",
+    "Weighted Average Price": 102.6146,
+    "Last Trade Price": 102.6211,
+    "Weighted  Average Yield (YTM) (%)": 7.8018,
+    "Last  Trade Yield  (Annualized) (%)": 7.8,
+    "Value (₹ Lakhs)": 550,
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE752E07NV6",
+    "Descriptor": "POWER GRID CORPORATION OF INDIA LIMITED SRLIIISTRPPJ8.13BD25AP29FV10LACLOAUPTO17AG16",
+    "Weighted Average Price": 105.8903,
+    "Last Trade Price": 105.8903,
+    "Weighted  Average Yield (YTM) (%)": 7.22,
+    "Last  Trade Yield  (Annualized) (%)": 7.22,
+    "Value (₹ Lakhs)": 500,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE752E07NU8",
+    "Descriptor": "POWER GRID CORPORATION OF INDIA LIMITED SR-LIIISTRPPI8.13BD25AP28FV10LACLOAUPTO17AG16",
+    "Weighted Average Price": 105.4115,
+    "Last Trade Price": 105.4115,
+    "Weighted  Average Yield (YTM) (%)": 7.22,
+    "Last  Trade Yield  (Annualized) (%)": 7.22,
+    "Value (₹ Lakhs)": 500,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE733E07KL3",
+    "Descriptor": "NTPC LIMITED SR 69 7.32 BD 17JL29 FVRS10LAC LOAUPTO10OT19",
+    "Weighted Average Price": 100.9737,
+    "Last Trade Price": 100.9737,
+    "Weighted  Average Yield (YTM) (%)": 7.16,
+    "Last  Trade Yield  (Annualized) (%)": 7.16,
+    "Value (₹ Lakhs)": 500,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE163N08107",
+    "Descriptor": "ONGC PETRO ADDITIONS LIMITED SR IV OPT A 8.45 NCD 10MR23 FVRS10LAC",
+    "Weighted Average Price": 100.7757,
+    "Last Trade Price": 100.7757,
+    "Weighted  Average Yield (YTM) (%)": 8.15,
+    "Last  Trade Yield  (Annualized) (%)": 8.15,
+    "Value (₹ Lakhs)": 500,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE160A08142",
+    "Descriptor": "PUNJAB NATIONAL BANK SR XX 8.15 BD 26DC29 LOA FVRS10LAC",
+    "Weighted Average Price": 101.26,
+    "Last Trade Price": 101.26,
+    "Weighted  Average Yield (YTM) (%)": 7.9495,
+    "Last  Trade Yield  (Annualized) (%)": 7.9495,
+    "Value (₹ Lakhs)": 500,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE242A08445",
+    "Descriptor": "INDIAN OIL CORPORATION LIMITED SR XV 6.44 LOA 14AP23 FVRS10LAC",
+    "Weighted Average Price": 100.62,
+    "Last Trade Price": 100.62,
+    "Weighted  Average Yield (YTM) (%)": 6.22,
+    "Last  Trade Yield  (Annualized) (%)": 6.22,
+    "Value (₹ Lakhs)": 500,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE261F08BF1",
+    "Descriptor": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SERIES PB5SA4 8.24 BD 22MR29 FVRS10LAC",
+    "Weighted Average Price": 107.0069,
+    "Last Trade Price": 107.0069,
+    "Weighted  Average Yield (YTM) (%)": 7.3,
+    "Last  Trade Yield  (Annualized) (%)": 7.3,
+    "Value (₹ Lakhs)": 500,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE787H07081",
+    "Descriptor": "INDIA INFRASTRUCTURE FINANCE COMPANY LIMITED 7.38 BD 15NV27 FVRS10LAC LOA UPTO 07FB13",
+    "Weighted Average Price": 109.7307,
+    "Last Trade Price": 109.7307,
+    "Weighted  Average Yield (YTM) (%)": 5.78,
+    "Last  Trade Yield  (Annualized) (%)": 5.78,
+    "Value (₹ Lakhs)": 500,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE861G08043",
+    "Descriptor": "FOOD CORPORATION OF INDIA SERIES VII 8.95 BD 01MR29 FVRS10LAC",
+    "Weighted Average Price": 110.6138,
+    "Last Trade Price": 110.6138,
+    "Weighted  Average Yield (YTM) (%)": 7.3,
+    "Last  Trade Yield  (Annualized) (%)": 7.3,
+    "Value (₹ Lakhs)": 500,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE08EQ08056",
+    "Descriptor": "GUJARAT STATE INVESTMENTS LIMITED SR-5 9.45 LOA 22MR25 FVRS10LAC",
+    "Weighted Average Price": 102,
+    "Last Trade Price": 102,
+    "Weighted  Average Yield (YTM) (%)": 9.15,
+    "Last  Trade Yield  (Annualized) (%)": 9.15,
+    "Value (₹ Lakhs)": 500,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE261F08BT2",
+    "Descriptor": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT SR LTIF 4C 7.78 LOA 20DC34 FVRS10LAC",
+    "Weighted Average Price": 102.87,
+    "Last Trade Price": 102.87,
+    "Weighted  Average Yield (YTM) (%)": 7.4506,
+    "Last  Trade Yield  (Annualized) (%)": 7.4506,
+    "Value (₹ Lakhs)": 260,
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE053F07579",
+    "Descriptor": "INDIAN RAILWAY FINANCE CORPORATION LIMITED 7.34/7.84 BD 19FB28 FVRS1000 LOA UPTO 18FB13",
+    "Weighted Average Price": 110.0491,
+    "Last Trade Price": 110.909,
+    "Weighted  Average Yield (YTM) (%)": 5.7373,
+    "Last  Trade Yield  (Annualized) (%)": 5.61,
+    "Value (₹ Lakhs)": 219.7,
+    "No. of Trades": 3
+  },
+  {
+    "ISIN": "INE540P07087",
+    "Descriptor": "U.P. POWER CORPORATION LIMITED SR-III-E 8.97 BD 14FB25 FVRS10LAC",
+    "Weighted Average Price": 100.8581,
+    "Last Trade Price": 101.82,
+    "Weighted  Average Yield (YTM) (%)": 9.0457,
+    "Last  Trade Yield  (Annualized) (%)": 8.76,
+    "Value (₹ Lakhs)": 210,
+    "No. of Trades": 3
+  },
+  {
+    "ISIN": "INE01E708057",
+    "Descriptor": "ANDHRA PRADESH CAPITAL REGION DEVELOPMENT AUTHORITY STRPPs E 10.32 BD 16AG28 FVRS2LAC",
+    "Weighted Average Price": 99.1905,
+    "Last Trade Price": 99.4,
+    "Weighted  Average Yield (YTM) (%)": 11.0089,
+    "Last  Trade Yield  (Annualized) (%)": 10.83,
+    "Value (₹ Lakhs)": 210,
+    "No. of Trades": 5
+  },
+  {
+    "ISIN": "INE306N08052",
+    "Descriptor": "TATA CAPITAL FINANCIAL SERVICES LIMITED SR-D 9.37 BD 31MR25 FVRS10LAC",
+    "Weighted Average Price": 103.55,
+    "Last Trade Price": 103.55,
+    "Weighted  Average Yield (YTM) (%)": 8.4772,
+    "Last  Trade Yield  (Annualized) (%)": 8.4772,
+    "Value (₹ Lakhs)": 180,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE860H08DT3",
+    "Descriptor": "ADITYA BIRLA FINANCE LIMITED SR-SD1 8.97 NCD 28JL26 FVRS10LAC",
+    "Weighted Average Price": 102.3,
+    "Last Trade Price": 102.3,
+    "Weighted  Average Yield (YTM) (%)": 8.4687,
+    "Last  Trade Yield  (Annualized) (%)": 8.4687,
+    "Value (₹ Lakhs)": 170,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE683A08051",
+    "Descriptor": "THE SOUTH INDIAN BANK LTD. SR I 13.75 BD PERPETUAL FVRS1LAC",
+    "Weighted Average Price": 100.7251,
+    "Last Trade Price": 100.9,
+    "Weighted  Average Yield (YTM) (%)": 13.3776,
+    "Last  Trade Yield  (Annualized) (%)": 11.49,
+    "Value (₹ Lakhs)": 145,
+    "No. of Trades": 4
+  },
+  {
+    "ISIN": "INE241O07FW3",
+    "Descriptor": "EDELWEISS FINVEST PRIVATE LIMITED SR L1A801A BR NCD 24JU22 FVRS1LAC",
+    "Weighted Average Price": 116,
+    "Last Trade Price": 116,
+    "Weighted  Average Yield (YTM) (%)": "-",
+    "Last  Trade Yield  (Annualized) (%)": "-",
+    "Value (₹ Lakhs)": 120,
+    "No. of Trades": 3
+  },
+  {
+    "ISIN": "INE540P07327",
+    "Descriptor": "U.P. POWER CORPORATION LIMITED SR-II-F 10.15 BD 20JN25 FVRS10LAC",
+    "Weighted Average Price": 96.338,
+    "Last Trade Price": 96.3381,
+    "Weighted  Average Yield (YTM) (%)": 11.65,
+    "Last  Trade Yield  (Annualized) (%)": 11.65,
+    "Value (₹ Lakhs)": 110,
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE001A07SB7",
+    "Descriptor": "HOUSING DEVELOPMENT FINANCE CORPORATION LTD SR W-003 8.05NCD22OT29FVRS10LACLOAUPTO12NV19",
+    "Weighted Average Price": 103.1123,
+    "Last Trade Price": 103.1123,
+    "Weighted  Average Yield (YTM) (%)": 7.57,
+    "Last  Trade Yield  (Annualized) (%)": 7.57,
+    "Value (₹ Lakhs)": 110,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE540P07335",
+    "Descriptor": "U.P. POWER CORPORATION LIMITED SR-II-G 10.15 BD 20JN26 FVRS10LAC",
+    "Weighted Average Price": 95.7278,
+    "Last Trade Price": 95.7616,
+    "Weighted  Average Yield (YTM) (%)": 11.65,
+    "Last  Trade Yield  (Annualized) (%)": 11.65,
+    "Value (₹ Lakhs)": 110,
+    "No. of Trades": 6
+  },
+  {
+    "ISIN": "INE557F07074",
+    "Descriptor": "NATIONAL HOUSING BANK 8.46 NCD 30AG28 FVRS10LAC LOA UPTO 27SP13",
+    "Weighted Average Price": 117.9063,
+    "Last Trade Price": 117.9063,
+    "Weighted  Average Yield (YTM) (%)": 5.74,
+    "Last  Trade Yield  (Annualized) (%)": 5.74,
+    "Value (₹ Lakhs)": 100,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE140A07476",
+    "Descriptor": "PIRAMAL ENTERPRISES LIMITED SR4 9.70 NCD 24DC20 FVRS10LAC LOAUPTO21MY19",
+    "Weighted Average Price": 99.5178,
+    "Last Trade Price": 99.5178,
+    "Weighted  Average Yield (YTM) (%)": 10.5,
+    "Last  Trade Yield  (Annualized) (%)": 10.5,
+    "Value (₹ Lakhs)": 100,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE660A08BR0",
+    "Descriptor": "SUNDARAM FINANCE LIMITED SR-N 51 9.8 NCD 12NV24 FVRS10LAC",
+    "Weighted Average Price": 105.35,
+    "Last Trade Price": 105.35,
+    "Weighted  Average Yield (YTM) (%)": 8.3622,
+    "Last  Trade Yield  (Annualized) (%)": 8.3622,
+    "Value (₹ Lakhs)": 100,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE906B07EO8",
+    "Descriptor": "NATIONAL HIGHWAYS AUTHORITY OF INDIA SR IIA 7.39 BD 09MR31 FVRS1000",
+    "Weighted Average Price": 114.0774,
+    "Last Trade Price": 114.0774,
+    "Weighted  Average Yield (YTM) (%)": 5.64,
+    "Last  Trade Yield  (Annualized) (%)": 5.64,
+    "Value (₹ Lakhs)": 80,
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE020B08740",
+    "Descriptor": "RURAL ELECTRIFICATION CORPORATION LIMITED SR-107 9.35 BD 15JU22 FVRS10LAC",
+    "Weighted Average Price": 103.6235,
+    "Last Trade Price": 103.817,
+    "Weighted  Average Yield (YTM) (%)": 7.57,
+    "Last  Trade Yield  (Annualized) (%)": 7.48,
+    "Value (₹ Lakhs)": 80,
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE540P07228",
+    "Descriptor": "U.P. POWER CORPORATION LIMITED SR-I-E 9.75 BD 20OT23 FVRS10LAC",
+    "Weighted Average Price": 96.1241,
+    "Last Trade Price": 96.2,
+    "Weighted  Average Yield (YTM) (%)": 11.6286,
+    "Last  Trade Yield  (Annualized) (%)": 11.6,
+    "Value (₹ Lakhs)": 70,
+    "No. of Trades": 3
+  },
+  {
+    "ISIN": "INE053F09EO6",
+    "Descriptor": "INDIAN RAILWAY FINANCE CORPORATION LIMITED 10.04 BD 07JU27 FVRS10LAC LOA UPTO 09JL07",
+    "Weighted Average Price": 114.2,
+    "Last Trade Price": 114.2,
+    "Weighted  Average Yield (YTM) (%)": 7.6185,
+    "Last  Trade Yield  (Annualized) (%)": 7.6185,
+    "Value (₹ Lakhs)": 60,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE540P07244",
+    "Descriptor": "U.P. POWER CORPORATION LIMITED SR-I-G 9.75 BD 20OT25 FVRS10LAC",
+    "Weighted Average Price": 94.0189,
+    "Last Trade Price": 93.9836,
+    "Weighted  Average Yield (YTM) (%)": 11.7331,
+    "Last  Trade Yield  (Annualized) (%)": 11.7443,
+    "Value (₹ Lakhs)": 60,
+    "No. of Trades": 4
+  },
+  {
+    "ISIN": "INE053F09HQ4",
+    "Descriptor": "INDIAN RAILWAY FINANCE CORPORATION LIMITED 9.47 BD 10MY31 FVRS10LAC LOA UPTO 18JL11",
+    "Weighted Average Price": 115.06,
+    "Last Trade Price": 115.06,
+    "Weighted  Average Yield (YTM) (%)": 7.5991,
+    "Last  Trade Yield  (Annualized) (%)": 7.5991,
+    "Value (₹ Lakhs)": 50,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE062A08215",
+    "Descriptor": "STATE BANK OF INDIA SERIES I 8.75 BD PERPETUAL FVRS10LAC",
+    "Weighted Average Price": 102.9236,
+    "Last Trade Price": 102.9236,
+    "Weighted  Average Yield (YTM) (%)": 7.93,
+    "Last  Trade Yield  (Annualized) (%)": 7.93,
+    "Value (₹ Lakhs)": 50,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE514E08FO9",
+    "Descriptor": "EXPORT IMPORT BANK OF INDIA SR-U-03 7.74 BD 26MY37 FVRS10LAC",
+    "Weighted Average Price": 102.5,
+    "Last Trade Price": 102.5,
+    "Weighted  Average Yield (YTM) (%)": 7.47,
+    "Last  Trade Yield  (Annualized) (%)": 7.47,
+    "Value (₹ Lakhs)": 50,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE202E08011",
+    "Descriptor": "INDIAN RENEWABLE ENERGY DEVELOPMENT AGENCY LIMITED SR-I 7.22 BD 06FB27 FVRS10LAC LOAUPTO06FB17",
+    "Weighted Average Price": 96,
+    "Last Trade Price": 96,
+    "Weighted  Average Yield (YTM) (%)": 8.1321,
+    "Last  Trade Yield  (Annualized) (%)": 8.1321,
+    "Value (₹ Lakhs)": 30,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE053F09HT8",
+    "Descriptor": "INDIAN RAILWAY FINANCE CORPORATION LIMITED SR-79 7.55 BD 08NV21 FVRS1LAC LOA UPTO 07DC11",
+    "Weighted Average Price": 103.0257,
+    "Last Trade Price": 103.0257,
+    "Weighted  Average Yield (YTM) (%)": 5.66,
+    "Last  Trade Yield  (Annualized) (%)": 5.66,
+    "Value (₹ Lakhs)": 27,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE121A08OK1",
+    "Descriptor": "CHOLAMANDALAM INVESTMENT AND FIN. CO. LTD SR PDI22 10.75 NCD PERPETUAL FVRS5LAC",
+    "Weighted Average Price": 101.1,
+    "Last Trade Price": 101.1,
+    "Weighted  Average Yield (YTM) (%)": 10.5442,
+    "Last  Trade Yield  (Annualized) (%)": 10.5442,
+    "Value (₹ Lakhs)": 20,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE038A07266",
+    "Descriptor": "HINDALCO INDUSTRIES LIMITED SR-II 9.55NCD 27JU22 FVRS10LAC LOAUPTO 01AG12",
+    "Weighted Average Price": 100.02,
+    "Last Trade Price": 100.02,
+    "Weighted  Average Yield (YTM) (%)": 9.48,
+    "Last  Trade Yield  (Annualized) (%)": 9.48,
+    "Value (₹ Lakhs)": 20,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE031A07899",
+    "Descriptor": "HOUSING AND URBAN DEVELOPMENT CORPORATION LIMITED SR-A 8.56 BD 02SP28 FVRS10LAC",
+    "Weighted Average Price": 119.0206,
+    "Last Trade Price": 119.237,
+    "Weighted  Average Yield (YTM) (%)": 5.68,
+    "Last  Trade Yield  (Annualized) (%)": 5.65,
+    "Value (₹ Lakhs)": 20,
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE053F09HM3",
+    "Descriptor": "INDIAN RAILWAY FINANCE CORPORATION LIMITED 9.09 BD 29MR26 FVRS10LAC LOA UPTO 09JU11",
+    "Weighted Average Price": 107.66,
+    "Last Trade Price": 107.66,
+    "Weighted  Average Yield (YTM) (%)": 7.6397,
+    "Last  Trade Yield  (Annualized) (%)": 7.6397,
+    "Value (₹ Lakhs)": 20,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE020B08849",
+    "Descriptor": "RURAL ELECTRIFICATION CORPORATION LIMITED SR-115 8.06 BD 31MY23 FVRS10LAC",
+    "Weighted Average Price": 99.8,
+    "Last Trade Price": 99.8,
+    "Weighted  Average Yield (YTM) (%)": 8.1,
+    "Last  Trade Yield  (Annualized) (%)": 8.1,
+    "Value (₹ Lakhs)": 20,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE053F09EF4",
+    "Descriptor": "INDIAN RAILWAY FINANCE CORPORATION LIMITED 51 7.74 NCD 22DC20 FVRS10LAC LOA UPTO 18JN06",
+    "Weighted Average Price": 100.5681,
+    "Last Trade Price": 100.7623,
+    "Weighted  Average Yield (YTM) (%)": 7.16,
+    "Last  Trade Yield  (Annualized) (%)": 6.92,
+    "Value (₹ Lakhs)": 20,
+    "No. of Trades": 2
+  },
+  {
+    "ISIN": "INE614B08039",
+    "Descriptor": "THE KARNATAKA BANK LIMITED SERIES V 12 NCD 16NV28 FVRS1LAC",
+    "Weighted Average Price": 105.5,
+    "Last Trade Price": 105.5,
+    "Weighted  Average Yield (YTM) (%)": 10.1261,
+    "Last  Trade Yield  (Annualized) (%)": 10.1261,
+    "Value (₹ Lakhs)": 10,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE523E08NG0",
+    "Descriptor": "L&T FINANCE LIMITED SR- F RR NCD PERPETUAL FVRS10LAC",
+    "Weighted Average Price": 104.1132,
+    "Last Trade Price": 104.1132,
+    "Weighted  Average Yield (YTM) (%)": 9,
+    "Last  Trade Yield  (Annualized) (%)": 9,
+    "Value (₹ Lakhs)": 10,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE202E07070",
+    "Descriptor": "INDIAN RENEWABLE ENERGY DEVELOPMENT AGENCY LIMITED SR-IV 9.49 BD 04JU22 FVRS10LAC",
+    "Weighted Average Price": 101.4,
+    "Last Trade Price": 101.4,
+    "Weighted  Average Yield (YTM) (%)": 8.75,
+    "Last  Trade Yield  (Annualized) (%)": 8.75,
+    "Value (₹ Lakhs)": 10,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE787H07057",
+    "Descriptor": "INDIA INFRASTRUCTURE FINANCE COMPANY LIMITED SR-X-A 9.41 NCD 27JL37 FVRS10LACLOAUPTO22OT12",
+    "Weighted Average Price": 109.9,
+    "Last Trade Price": 109.9,
+    "Weighted  Average Yield (YTM) (%)": 8.3,
+    "Last  Trade Yield  (Annualized) (%)": 8.3,
+    "Value (₹ Lakhs)": 10,
+    "No. of Trades": 1
+  },
+  {
+    "ISIN": "INE756I08207",
+    "Descriptor": "HDB FINANCIAL SERVICES LIMITED SERIES P/1/4 8.70 NCD PERPATUAL FVRS10LAC",
+    "Weighted Average Price": 102.7,
+    "Last Trade Price": 102.7,
+    "Weighted  Average Yield (YTM) (%)": 8.27,
+    "Last  Trade Yield  (Annualized) (%)": 8.27,
+    "Value (₹ Lakhs)": 10,
+    "No. of Trades": 1
+  }
+]
