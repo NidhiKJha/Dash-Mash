@@ -22,7 +22,7 @@ class FormPersonalDetails extends React.Component {
       fields
     });
   }
-
+ 
   submituserRegistrationForm(e) {
     e.preventDefault();
     if (this.validateForm()) {
@@ -52,19 +52,19 @@ class FormPersonalDetails extends React.Component {
 
     if (!fields["participantcode"]) {
       formIsValid = false;
-      errors["participantcode"] = "*Please enter your participantcode.";
+      errors["participantcode"] = "*Please enter your participant code.";
     }
 
     if (typeof fields["participantcode"] !== "undefined") {
       if (!fields["participantcode"].match(/^[0-9]{10}$/)) {
         formIsValid = false;
-        errors["participantcode"] = "*Please enter valid participantcode";
+        errors["participantcode"] = "*Please enter valid participant code";
       }
     }
 
     if (!fields["participantname"]) {
       formIsValid = false;
-      errors["participantname"] = "*Please enter your participantname.";
+      errors["participantname"] = "*Please enter your participant name.";
     }
 
     if (typeof fields["participantname"] !== "undefined") {
@@ -158,7 +158,7 @@ class FormPersonalDetails extends React.Component {
     if (typeof fields["bankaccountno"] !== "undefined") {
       if (!fields["bankaccountno"].match(/^[0-9]{10}$/)) {
         formIsValid = false;
-        errors["bankaccountno"] = "*Please enter alphabet characters only.";
+        errors["bankaccountno"] = "*Please enter bank account number only.";
       }
     }
 
@@ -186,7 +186,7 @@ class FormPersonalDetails extends React.Component {
       var pattern = new RegExp(/^([a-zA-Z]){5}([0-9]){4}([a-zA-Z]){1}?$/);
       if (!pattern.test(fields["officeadress"])) {
         formIsValid = false;
-        errors["officeadress"] = "*Please enter valid officeadress.";
+        errors["officeadress"] = "*Please enter valid address.";
       }
     }
 
@@ -212,7 +212,7 @@ class FormPersonalDetails extends React.Component {
     return (
       <div id="main-registration-container">
         <div id="register">
-          <h3>Registration page</h3>
+          
           <form
             method="post"
             name="userRegistrationForm"
