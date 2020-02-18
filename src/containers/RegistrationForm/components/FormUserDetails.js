@@ -13,46 +13,55 @@ export class FormUserDetails extends Component {
       <div id="main-registration-container">
         
         <div id="register">
+          <div className =  "account-card">
           <form>
           <h3 padding= "10px"
           margin="normal"
-              fullWidth="true">Registration page</h3>
+              fullWidth="true"> New User Registration page</h3>
               <br />
-            <label>First Name</label>
-            <input
-              placeholder="Enter Your First Name"
-              label="First Name"
-              onChange={handleChange("firstName")}
-              defaultValue={values.firstName}
-              margin="normal"
-              fullWidth="true"
-            />
+              <div class="form__form-group">
+                <span class="form__form-group-label">First Name</span>
+                <div class="form__form-group-field">
+                      </div><input name="name" type="text" placeholder="Name">
+                      </input>
+                      </div>
             <br />
-            <label>Last Name</label>
-
-            <input
-              placeholder="Enter Your Last Name"
-              label="Last Name"
-              onChange={handleChange("lastName")}
-              defaultValue={values.lastName}
-              margin="normal"
-              fullWidth="true"
-            />
+            <div class="form__form-group">
+                <span class="form__form-group-label">Last Name</span>
+                <div class="form__form-group-field">
+                      </div><input name="name" type="text" placeholder="Name">
+                      </input>
+                      </div>
             <br />
-            <label>Email</label>
-            <input
-              placeholder="Enter Your Email"
-              label="Email"
-              onChange={handleChange("email")}
-              defaultValue={values.email}
-              margin="normal"
-              fullWidth="true"
-            />
+            <div class="form__form-group">
+                <span class="form__form-group-label">Mobile</span>
+                <div class="form__form-group-field">
+                      </div><input name="name" type="text" placeholder="Name">
+                      </input>
+                      </div>
             <br />
-            <button className="button" onClick={this.continue}>
-              Continue
-            </button>
+            <div class="form__form-group">
+                <span class="form__form-group-label">E-mail</span>
+                <div class="form__form-group-field">
+                      </div><input name="name" type="text" placeholder="Name">
+                      </input>
+                      </div>
+            <br />
+            <div class="form__form-group">
+                <span class="form__form-group-label">Password</span>
+                <div class="form__form-group-field">
+                      </div><input name="name" type="text" placeholder="Name">
+                      </input>
+                      </div>
+            <br />
+            <a
+                class="btn btn-primary account__btn account__btn--small"
+                onClick={this.continue}
+              >
+                Submit
+              </a>
           </form>
+          </div>
         </div>
       </div>
     );

@@ -17,21 +17,25 @@ class SidebarContent extends Component {
     return (
       <div className="sidebar__content">
         <ul className="sidebar__block">
-          <SidebarLink title="Test" icon="exit" route="/pages/one" onClick={this.hideSidebar} />
+          <SidebarLink title="Dashboard" icon="exit" route="/pages/one" onClick={this.hideSidebar} />
         </ul>
         <ul className="sidebar__block">
-          <SidebarLink title="Check" icon="exit" route="/pages/one" onClick={this.hideSidebar} />
+          <SidebarLink title="Bond- Info" icon="exit" route="/pages/one" onClick={this.hideSidebar} />
         </ul>
         <ul className="sidebar__block">
-          <SidebarLink title="Test2" icon="exit" route="/pages/two" onClick={this.hideSidebar} />
+        <SidebarCategory title="KYC" icon="diamond">
+          <SidebarLink title="Individual KYC" route="/pages/two" onClick={this.hideSidebar} />
+            <SidebarLink title="HUF/Company KYC" route="/pages/three" onClick={this.hideSidebar} />
+            {/* <SidebarLink title="Company KYC" route="/pages/three" onClick={this.hideSidebar} /> */}
+            </SidebarCategory>
         </ul>
         <ul className="sidebar__block">
-          <SidebarLink title="Test3" icon="exit" route="/pages/two" onClick={this.hideSidebar} />
+          <SidebarLink title="Transact" icon="exit" route="/pages/two" onClick={this.hideSidebar} />
         </ul>
         <ul className="sidebar__block">
-          <SidebarLink title="Test4" icon="exit" route="/pages/two" onClick={this.hideSidebar} />
+          <SidebarLink title="Reports" icon="exit" route="/pages/two" onClick={this.hideSidebar} />
         </ul>
-        <ul className="sidebar__block">
+        {/* <ul className="sidebar__block">
           <SidebarCategory title="Example Pages" icon="diamond">
             <SidebarLink title="Page one" route="/pages/one" onClick={this.hideSidebar} />
             <SidebarLink title="Page two" route="/pages/two" onClick={this.hideSidebar} />
@@ -41,7 +45,7 @@ class SidebarContent extends Component {
             <SidebarLink title="Lorel Impsum" route="/pages/two" onClick={this.hideSidebar} />
           </SidebarCategory>
           
-        </ul>
+        </ul> */}
       </div>
     );
   }

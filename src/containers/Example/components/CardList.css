@@ -1,0 +1,32 @@
+.Item_Card {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  justify-content: space-between;
+  box-shadow: 2px 4px 10px 0 #d3d3d3;
+  padding: 0.5em;
+  margin: 1em;
+}
+
+.Item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 0.5em;
+  margin: 1em;
+}
+
+.Item_Label {
+  color: blue;
+  font-size: 0.7em;
+}
+
+.Item_Value {
+  color: black;
+  font-size: 1em;
+}
+
+.Card_List {
+  display: flex;
+  flex-direction: column;
+}

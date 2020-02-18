@@ -7,18 +7,16 @@ import Success from './Success';
 export class RegistrationForm extends Component {
   state = {
     step: 1,
-    firstName: '',
-    lastName: '',
+    CompanyName: '',
+    contactperson: '',
+    contactnumber: '',
     email: '',
-    
-    mobile: '',
-    Aadhar: "",
-    Pan: "",
-    Address: "",
+    pan: '',
+    aadhar: '',
     bankaccountno: " ",
     bankifscno: "",
     bankname:"",
-    
+
   };
 
   // Proceed to next step

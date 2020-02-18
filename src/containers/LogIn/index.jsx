@@ -11,11 +11,11 @@ const LogIn = () => (
       <div className="account__card">
         <div className="account__head">
           <h3 className="account__title">Welcome to
-            <span className="account__logo"> Dashboard
-              <span className="account__logo-accent">DEV</span>
+            <span className="account__logo"> i8labs
+              <span className="account__logo-accent">.io</span>
             </span>
           </h3>
-          <h4 className="account__subhead subhead">Start your business easily</h4>
+          <h4 className="account__subhead subhead"></h4>
         </div>
         <LogInForm />
        

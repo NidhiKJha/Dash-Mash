@@ -10,15 +10,9 @@ export class RegistrationForm extends Component {
     firstName: '',
     lastName: '',
     email: '',
-    
-    mobile: '',
-    Aadhar: "",
-    Pan: "",
-    Address: "",
-    bankaccountno: " ",
-    bankifscno: "",
-    bankname:"",
-    
+    occupation: '',
+    city: '',
+    bio: ''
   };
 
   // Proceed to next step

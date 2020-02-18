@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import { Card, CardBody, Col } from "reactstrap";
-import Chart from "./Charts";
+// import Chart from "./Charts";
 import Header from "./Header";
 import Data from "./Data.json";
+import CardList from "./CardList";
 
 class ExampleCard extends Component {
   constructor() {
@@ -52,16 +53,14 @@ class ExampleCard extends Component {
       <div className="header col-lg-12">
         <Header />
 
-        <Col md={12}>
-          <div className="card__title">
-            <Chart
-              chartData={this.state.chartData}
-              location="CryptoChart"
-              legendPosition="bottom"
-            />
-          </div>
-          <p>Content....</p>
-        </Col>
+        {/* <div className="card__title">
+          <Chart
+            chartData={this.state.chartData}
+            location="CryptoChart"
+            legendPosition="bottom"
+          />
+        </div> */}
+        <CardList Data={Data} />
       </div>
     );
   }

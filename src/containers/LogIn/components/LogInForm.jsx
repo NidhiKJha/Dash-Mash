@@ -1,9 +1,9 @@
 import React, { PureComponent } from 'react';
 import EyeIcon from 'mdi-react/EyeIcon';
-import KeyVariantIcon from 'mdi-react/KeyVariantIcon';
-import AccountOutlineIcon from 'mdi-react/AccountOutlineIcon';
+
 import { Link } from 'react-router-dom';
 import CheckBox from '../../../shared/components/form/CheckBox';
+import "./style.css";
 
 class LogInForm extends PureComponent {
   constructor() {
@@ -26,8 +26,8 @@ class LogInForm extends PureComponent {
         <div className="form__form-group">
           <span className="form__form-group-label">Username</span>
           <div className="form__form-group-field">
-            <div className="form__form-group-icon">
-              <AccountOutlineIcon />
+           
+              
             </div>
             <input
               name="name"
@@ -35,12 +35,12 @@ class LogInForm extends PureComponent {
               placeholder="Name"
             />
           </div>
-        </div>
+        
         <div className="form__form-group">
           <span className="form__form-group-label">Password</span>
           <div className="form__form-group-field">
             <div className="form__form-group-icon">
-              <KeyVariantIcon />
+             
             </div>
             <input
               name="password"
@@ -63,8 +63,9 @@ class LogInForm extends PureComponent {
             <CheckBox name="remember_me" label="Remember me" value="on" onChange={() => {}} />
           </div>
         </div>
-        <Link className="btn btn-primary account__btn account__btn--small" to="/pages/one">Sign In</Link>
-        <Link className="btn btn-outline-primary account__btn account__btn--small" to="/Registration">Create Account</Link>
+        <Link className="btn btn-primary account__btn account__btn--small" to="/pages/one">Log In</Link>
+        <Link className="btn btn-outline-primary account__btn account__btn--small" to="/Registration">Create a New Account</Link>
+       
       </form>
     );
   }

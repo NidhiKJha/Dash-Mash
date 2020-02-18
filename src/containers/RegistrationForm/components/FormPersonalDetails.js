@@ -22,13 +22,12 @@ class FormPersonalDetails extends React.Component {
       fields
     });
   }
- 
+
   submituserRegistrationForm(e) {
     e.preventDefault();
     if (this.validateForm()) {
       let fields = {};
-      fields["participantcode"] = "";
-      fields["participantname"] = "";
+
       fields["contactperson"] = "";
       fields["emailid"] = "";
       fields["mobileno"] = "";
@@ -49,30 +48,6 @@ class FormPersonalDetails extends React.Component {
     let fields = this.state.fields;
     let errors = {};
     let formIsValid = true;
-
-    if (!fields["participantcode"]) {
-      formIsValid = false;
-      errors["participantcode"] = "*Please enter your participant code.";
-    }
-
-    if (typeof fields["participantcode"] !== "undefined") {
-      if (!fields["participantcode"].match(/^[0-9]{10}$/)) {
-        formIsValid = false;
-        errors["participantcode"] = "*Please enter valid participant code";
-      }
-    }
-
-    if (!fields["participantname"]) {
-      formIsValid = false;
-      errors["participantname"] = "*Please enter your participant name.";
-    }
-
-    if (typeof fields["participantname"] !== "undefined") {
-      if (!fields["participantname"].match(/^[a-zA-Z ]*$/)) {
-        formIsValid = false;
-        errors["participantname"] = "*Please enter alphabet characters only.";
-      }
-    }
 
     if (!fields["contactperson"]) {
       formIsValid = false;
@@ -212,32 +187,11 @@ class FormPersonalDetails extends React.Component {
     return (
       <div id="main-registration-container">
         <div id="register">
-          
           <form
             method="post"
             name="userRegistrationForm"
             onSubmit={this.submituserRegistrationForm}
           >
-
-
-          <label>Participant code</label>
-            <input
-              type="text"
-              name="participantcode"
-              value={this.state.fields.participantcode}
-              onChange={this.handleChange}
-            />
-            <div className="errorMsg">{this.state.errors.username}</div>{" "}
-
-            <label>Participant Name</label>
-            <input
-              type="text"
-              name="participantname"
-              value={this.state.fields.username}
-              onChange={this.handleChange}
-            />
-            <div className="errorMsg">{this.state.errors.participantname}</div>{" "}
-
             <label>Contact Person</label>
             <input
               type="text"
@@ -246,7 +200,6 @@ class FormPersonalDetails extends React.Component {
               onChange={this.handleChange}
             />
             <div className="errorMsg">{this.state.errors.contactperson}</div>{" "}
-
             <label>Email ID:</label>
             <input
               type="text"
@@ -255,7 +208,6 @@ class FormPersonalDetails extends React.Component {
               onChange={this.handleChange}
             />
             <div className="errorMsg">{this.state.errors.emailid}</div>
-
             <label>Mobile No:</label>
             <input
               type="text"
@@ -264,7 +216,6 @@ class FormPersonalDetails extends React.Component {
               onChange={this.handleChange}
             />
             <div className="errorMsg">{this.state.errors.mobileno}</div>
-           
             <label>Address</label>
             <input
               type="text"
@@ -273,7 +224,6 @@ class FormPersonalDetails extends React.Component {
               onChange={this.handleChange}
             />
             <div className="errorMsg">{this.state.errors.address}</div>{" "}
-
             <label>Bank Name</label>
             <input
               type="text"
@@ -282,7 +232,6 @@ class FormPersonalDetails extends React.Component {
               onChange={this.handleChange}
             />
             <div className="errorMsg">{this.state.errors.bankname}</div>{" "}
-
             <label>Bank branch</label>
             <input
               type="text"
@@ -291,7 +240,6 @@ class FormPersonalDetails extends React.Component {
               onChange={this.handleChange}
             />
             <div className="errorMsg">{this.state.errors.bankbranch}</div>{" "}
-
             <label>Bank IFSC</label>
             <input
               type="text"
@@ -300,7 +248,6 @@ class FormPersonalDetails extends React.Component {
               onChange={this.handleChange}
             />
             <div className="errorMsg">{this.state.errors.bankifsc}</div>
-           
             <label>Bank Account No.</label>
             <input
               type="text"
@@ -309,8 +256,6 @@ class FormPersonalDetails extends React.Component {
               onChange={this.handleChange}
             />
             <div className="errorMsg">{this.state.errors.bankaccountno}</div>
-            
-
             <label>PAN No.</label>
             <input
               type="text"
@@ -319,9 +264,6 @@ class FormPersonalDetails extends React.Component {
               onChange={this.handleChange}
             />
             <div className="errorMsg">{this.state.errors.pancard}</div>
-
-
-
             {/* <label>Password</label>
             <input
               type="password"
@@ -329,7 +271,6 @@ class FormPersonalDetails extends React.Component {
               value={this.state.fields.password}
               onChange={this.handleChange}
             /> */}
-
             <label>Office Address</label>
             <input
               type="text"
@@ -338,12 +279,9 @@ class FormPersonalDetails extends React.Component {
               onChange={this.handleChange}
             />
             <div className="errorMsg">{this.state.errors.officeaddress}</div>{" "}
-{/* 
+            {/* 
             <div className="errorMsg">{this.state.errors.password}</div> */}
-
-
             <input type="submit" className="button" value="Register" />
-
           </form>
         </div>
       </div>
