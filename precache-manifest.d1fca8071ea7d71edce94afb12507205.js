@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16849afd98d1f38a1f0e",
-    "url": "/dash-mash/static/css/main.e5ff07f9.chunk.css"
+    "revision": "ffb68d977381e0e7389b",
+    "url": "/dash-mash/static/css/main.27416f02.chunk.css"
   },
   {
-    "revision": "16849afd98d1f38a1f0e",
-    "url": "/dash-mash/static/js/main.16849afd.chunk.js"
+    "revision": "ffb68d977381e0e7389b",
+    "url": "/dash-mash/static/js/main.ffb68d97.chunk.js"
   },
   {
     "revision": "d90738ea5d2d01ae24a2",
     "url": "/dash-mash/static/js/runtime~main.d90738ea.js"
   },
   {
-    "revision": "0ecbb3ce8814c7ddb191",
+    "revision": "9b7a51f9ea62d5b3c305",
     "url": "/dash-mash/static/css/2.c6250e3a.chunk.css"
   },
   {
-    "revision": "0ecbb3ce8814c7ddb191",
-    "url": "/dash-mash/static/js/2.0ecbb3ce.chunk.js"
+    "revision": "9b7a51f9ea62d5b3c305",
+    "url": "/dash-mash/static/js/2.9b7a51f9.chunk.js"
   },
   {
     "revision": "6cd04c4e80726f49e43dd72e2a0ac2c8",
@@ -28,11 +28,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dash-mash/static/media/logo_light.66592fa4.svg"
   },
   {
-    "revision": "2327b7f8587a70e540a14fcaa86557a5",
-    "url": "/dash-mash/static/js/2.0ecbb3ce.chunk.js.LICENSE.txt"
+    "revision": "685ccfcff289e14b4ad477eb2bd78307",
+    "url": "/dash-mash/static/js/2.9b7a51f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "938a60815795a24ec5fb2948993f34db",
+    "revision": "0fded462cfecb3e2a9febf882ec7ad63",
     "url": "/dash-mash/index.html"
   }
 ]);
