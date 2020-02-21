@@ -18,16 +18,13 @@ export class Success extends Component {
 
   render() {
     return (
-      <MuiThemeProvider > 
+     <MuiThemeProvider>
         <React.Fragment>
-        <Dialog 
-            open="true"
-            fullWidth="true"
-            maxWidth='sm'
-          >
+          <Dialog open="true" fullWidth="true" maxWidth="sm">
             <AppBar title="Success" />
-            <Link className="btn btn-outline-primary account__btn account__btn--small" to="/pages/one"> Log In </Link>
-
+            <div className="Succession">
+              Thank You For Your Submission. Your KYC is complete !
+            </div>
           </Dialog>
         </React.Fragment>
       </MuiThemeProvider>
