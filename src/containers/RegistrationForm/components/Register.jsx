@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import FormUserDetails from './FormUserDetails';
 import FormPersonalDetails from './FormPersonalDetails';
-import Confirm from './Confirm';
+// import Confirm from './Confirm';
 import Success from './Success';
 
 export class RegistrationForm extends Component {
@@ -59,15 +59,8 @@ export class RegistrationForm extends Component {
             values={values}
           />
         );
+     
       case 3:
-        return (
-          <Confirm
-            nextStep={this.nextStep}
-            prevStep={this.prevStep}
-            values={values}
-          />
-        );
-      case 4:
         return <Success />;
     }
   }

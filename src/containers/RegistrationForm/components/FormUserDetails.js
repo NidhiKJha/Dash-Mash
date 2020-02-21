@@ -45,7 +45,8 @@ class FormPersonalDetails extends React.Component {
       fields["confirmpassword"] = "";
 
       this.setState({ fields: fields });
-      alert("Form submitted. You can now login as a user");
+      // alert("Form submitted. You can now login as a user");
+      this.props.nextStep();
     }
   }
 
@@ -307,7 +308,7 @@ class FormPersonalDetails extends React.Component {
             /></div> */}
             {/* 
             <div className="errorMsg">{this.state.errors.password}</div> */}
-            <input type="submit" className="button" value="Register" />
+            <input type="submit" className="button" value="Continue" />
           </form>
         </div>
       </div>

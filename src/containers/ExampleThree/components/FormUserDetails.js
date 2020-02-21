@@ -33,7 +33,7 @@ export class FormUserDetails extends Component {
               <div class="form__form-group">
                 <span class="form__form-group-label">Contact No.</span>
                 <div class="form__form-group-field"></div>
-                <input name="name" type="text" placeholder="Name"></input>
+                <input name="name" type="text" placeholder="Contact Number"></input>
               </div>
               <br />
               

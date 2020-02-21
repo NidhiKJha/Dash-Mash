@@ -1,17 +1,17 @@
 {
-  "main.css": "/dash-mash/static/css/main.27416f02.chunk.css",
-  "main.js": "/dash-mash/static/js/main.ffb68d97.chunk.js",
-  "main.js.map": "/dash-mash/static/js/main.ffb68d97.chunk.js.map",
+  "main.css": "/dash-mash/static/css/main.5ffd6d79.chunk.css",
+  "main.js": "/dash-mash/static/js/main.08cf5f29.chunk.js",
+  "main.js.map": "/dash-mash/static/js/main.08cf5f29.chunk.js.map",
   "runtime~main.js": "/dash-mash/static/js/runtime~main.d90738ea.js",
   "runtime~main.js.map": "/dash-mash/static/js/runtime~main.d90738ea.js.map",
   "static/css/2.c6250e3a.chunk.css": "/dash-mash/static/css/2.c6250e3a.chunk.css",
-  "static/js/2.9b7a51f9.chunk.js": "/dash-mash/static/js/2.9b7a51f9.chunk.js",
-  "static/js/2.9b7a51f9.chunk.js.map": "/dash-mash/static/js/2.9b7a51f9.chunk.js.map",
+  "static/js/2.836320ee.chunk.js": "/dash-mash/static/js/2.836320ee.chunk.js",
+  "static/js/2.836320ee.chunk.js.map": "/dash-mash/static/js/2.836320ee.chunk.js.map",
   "index.html": "/dash-mash/index.html",
-  "precache-manifest.d1fca8071ea7d71edce94afb12507205.js": "/dash-mash/precache-manifest.d1fca8071ea7d71edce94afb12507205.js",
+  "precache-manifest.9caabafc64923fa52e185d6b9df4b7e2.js": "/dash-mash/precache-manifest.9caabafc64923fa52e185d6b9df4b7e2.js",
   "service-worker.js": "/dash-mash/service-worker.js",
   "static/css/2.c6250e3a.chunk.css.map": "/dash-mash/static/css/2.c6250e3a.chunk.css.map",
-  "static/css/main.27416f02.chunk.css.map": "/dash-mash/static/css/main.27416f02.chunk.css.map",
-  "static/js/2.9b7a51f9.chunk.js.LICENSE.txt": "/dash-mash/static/js/2.9b7a51f9.chunk.js.LICENSE.txt",
-  "static/media/app.scss": "/dash-mash/static/media/logo_light.66592fa4.svg"
+  "static/css/main.5ffd6d79.chunk.css.map": "/dash-mash/static/css/main.5ffd6d79.chunk.css.map",
+  "static/js/2.836320ee.chunk.js.LICENSE.txt": "/dash-mash/static/js/2.836320ee.chunk.js.LICENSE.txt",
+  "static/media/app.scss": "/dash-mash/static/media/logo_light.63ee4475.svg"
 }

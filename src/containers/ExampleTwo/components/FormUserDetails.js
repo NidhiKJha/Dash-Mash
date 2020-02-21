@@ -33,13 +33,13 @@ export class FormUserDetails extends Component {
               <div class="form__form-group">
                 <span class="form__form-group-label">Mobile</span>
                 <div class="form__form-group-field"></div>
-                <input name="name" type="text" placeholder="Name"></input>
+                <input name="name" type="text" placeholder="Mobile"></input>
               </div>
               <br />
               <div class="form__form-group">
                 <span class="form__form-group-label">E-mail</span>
                 <div class="form__form-group-field"></div>
-                <input name="name" type="text" placeholder="Name"></input>
+                <input name="name" type="text" placeholder="E-mail"></input>
               </div>
               <br />
               <a
