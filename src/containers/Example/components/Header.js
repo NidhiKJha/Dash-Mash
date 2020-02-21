@@ -5,7 +5,7 @@ const Header = () => {
       <div className="col-lg-4 col-xx-12">
         <div
           className="card"
-          style={{ backgroundColor: "#008080", paddingBottom: 0 }}
+          style={{ backgroundColor: " #00bfff", paddingBottom: 0 }}
         >
           <div className="card-header">Total Invested Amount</div>
           <div className="card-body">
@@ -16,7 +16,7 @@ const Header = () => {
       <div className="col-lg-4">
         <div
           className="card"
-          style={{ backgroundColor: "#008080", paddingBottom: 0 }}
+          style={{ backgroundColor: " #00bfff", paddingBottom: 0 }}
         >
           <div className="card-header">Number Of Investments</div>
           <div className="card-body">
@@ -27,7 +27,7 @@ const Header = () => {
       <div className="col-lg-4">
         <div
           className="card"
-          style={{ backgroundColor: "#008080", paddingBottom: 0 }}
+          style={{ backgroundColor: " #00bfff", paddingBottom: 0 }}
         >
           <div className="card-header">Rate Of return</div>
           <div className="card-body">

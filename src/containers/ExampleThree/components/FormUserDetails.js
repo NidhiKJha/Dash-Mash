@@ -36,12 +36,7 @@ export class FormUserDetails extends Component {
                 <input name="name" type="text" placeholder="Name"></input>
               </div>
               <br />
-              <div class="form__form-group">
-                <span class="form__form-group-label">Corresponding E-mail</span>
-                <div class="form__form-group-field"></div>
-                <input name="name" type="text" placeholder="Name"></input>
-              </div>
-              <br />
+              
               <a
                 class="btn btn-primary account__btn account__btn--small"
                 onClick={this.continue}
