@@ -14,19 +14,45 @@
   justify-content: space-between;
   padding: 0.5em;
   margin: 1em;
+  flex:1;
 }
 
 .Item_Label {
-  color: blue;
+  color:#4583ff!important;
   font-size: 0.7em;
+ 
 }
 
 .Item_Value {
   color: black;
   font-size: 1em;
+  
 }
 
 .Card_List {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
+}
+
+.checkbox{
+
+    display: -webkit-box;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin: 2px 16px 0 0;
+    -webkit-box-align: center;
+    align-items: center;
+    
+
+}
+
+.mb-7{
+  margin-bottom:7px;
+}
+
+.ml-5{
+  margin-left:5px;
 }

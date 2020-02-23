@@ -5,6 +5,7 @@
   "homepage": "http://nidhikjha.github.io/dash-mash/",
   "dependencies": {
     "@material-ui/core": "^4.9.2",
+    "axios": "^0.19.2",
     "bfj": "6.1.1",
     "bootstrap": "^4.3.1",
     "case-sensitive-paths-webpack-plugin": "2.2.0",

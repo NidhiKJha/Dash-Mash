@@ -10,12 +10,13 @@ import ExamplePageTwo from "../ExampleTwo/index";
 import ExamplePageThree from "../ExampleThree/index";
 import ExamplePageFour from "../ExampleFour/index";
 
+
 const Pages = () => (
   <Switch>
     <Route path="/pages/one" component={ExamplePageOne} />
     <Route path="/pages/two" component={ExamplePageTwo} />
     <Route path="/pages/three" component={ExamplePageThree} />
-    <Route path="/pages/four" component={ExamplePageFour} />
+    <Route path="/pages/four/:id" component={ExamplePageFour} />
   </Switch>
 );
 

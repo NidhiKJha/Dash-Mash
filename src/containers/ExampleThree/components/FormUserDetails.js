@@ -8,7 +8,7 @@ export class FormUserDetails extends Component {
   };
 
   render() {
-    const { values, handleChange } = this.props;
+    // const { values, handleChange } = this.props;
     return (
       <div id="main-registration-container">
         <div id="register">

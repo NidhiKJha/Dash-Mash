@@ -14,6 +14,7 @@ export default class TopbarMenuLinks extends PureComponent {
 
     return (
       <Link className="topbar__link" to={path}>
+      <p className="topbar__avatar-name">Anuj Agarwal</p>
         <span className={`topbar__link-icon lnr lnr-${icon}`} />
         <p className="topbar__link-title">{title}</p>
       </Link>

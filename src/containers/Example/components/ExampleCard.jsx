@@ -3,7 +3,7 @@ import { Card, CardBody, Col } from "reactstrap";
 // import Chart from "./Charts";
 import Header from "./Header";
 import Data from "./Data.json";
-import CardList from "./CardList";
+import FetchFields from "./FetchFields";
 
 class ExampleCard extends Component {
   constructor() {
@@ -13,7 +13,7 @@ class ExampleCard extends Component {
     };
   }
 
-  componentWillMount() {
+  componentDidMount() {
     this.getChartData();
   }
 
@@ -60,7 +60,7 @@ class ExampleCard extends Component {
             legendPosition="bottom"
           />
         </div> */}
-        <CardList Data={Data} />
+        <FetchFields/>
       </div>
     );
   }

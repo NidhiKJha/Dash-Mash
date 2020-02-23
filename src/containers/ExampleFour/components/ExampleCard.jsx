@@ -1,76 +1,72 @@
-import React, { Component } from 'react';
-import FormUserDetails from './FormUserDetails';
-import FormPersonalDetails from './FormPersonalDetails';
-import Confirm from './Confirm';
-import Success from './Success';
+import React, { Component } from "react";
+import axios from "axios";
+import {Col} from 'reactstrap';
 
-export class RegistrationForm extends Component {
+class RegistrationForm extends Component {
   state = {
-    step: 1,
-    firstName: '',
-    lastName: '',
-    email: '',
-    occupation: '',
-    city: '',
-    bio: ''
+    data: null
   };
 
-  // Proceed to next step
-  nextStep = () => {
-    const { step } = this.state;
-    this.setState({
-      step: step + 1
-    });
-  };
-
-  // Go back to prev step
-  prevStep = () => {
-    const { step } = this.state;
-    this.setState({
-      step: step - 1
-    });
-  };
-
-  // Handle fields change
-  handleChange = input => e => {
-    this.setState({ [input]: e.target.value });
-  };
-
+  componentDidMount() {
+    console.log("asd");
+    axios
+      .get(
+        "https://b6skvn9l7h.execute-api.ap-south-1.amazonaws.com/Dev/getinstrumentsdetails"
+      )
+      .then(response => {
+        const res = response.data.filter(
+          item => item["ISIN"] === this.props.uniqueId
+        );
+        if (res.length > 0) {
+          this.setState({
+            data: res[0]
+          });
+        }
+      })
+      .catch(error => this.setState({ error, isLoading: false }));
+  }
   render() {
-    const { step } = this.state;
-    const { firstName, lastName, email, occupation, city, bio } = this.state;
-    const values = { firstName, lastName, email, occupation, city, bio };
-
-    switch (step) {
-      case 1:
-        return (
-          <FormUserDetails
-            nextStep={this.nextStep}
-            handleChange={this.handleChange}
-            values={values}
-          />
-        );
-      case 2:
-        return (
-          <FormPersonalDetails
-            nextStep={this.nextStep}
-            prevStep={this.prevStep}
-            handleChange={this.handleChange}
-            values={values}
-          />
-        );
-      case 3:
-        return (
-          <Confirm
-            nextStep={this.nextStep}
-            prevStep={this.prevStep}
-            values={values}
-          />
-        );
-      case 4:
-        return <Success />;
-    }
+    return (
+      <Col md={12}>
+        <div style={{ display: "flex",width:'100%' }}>
+          <div style={{ flex: 4 }}>
+            <h2>Power Finance Corporation Ltd.</h2>
+            <p>Power Finance Corporation LTD..... something something</p>
+            <p>engaged something something something</p>
+            <table>
+              <tr>
+                <td>ISIN</td>
+                <td>{this.props.uniqueId}</td>
+              </tr>
+              <tr>
+                <td>Country </td>
+                <td>India </td>
+              </tr>
+              <tr>
+                <td>Currency </td>
+                <td>INR </td>
+              </tr>
+            </table>
+          </div>
+          <div style={{ flex: 6 }}>
+          <div>
+            Button group
+          <button>
+            Group1
+          </button>
+          <button>
+            Group2
+          </button>
+        <div>
+      </div>
+      Chart over here
+  </div>
+          </div>
+        </div>
+        {JSON.stringify(this.state.data)}
+      </Col>
+    );
   }
 }
 
-export default RegistrationForm ;
+export default RegistrationForm;
