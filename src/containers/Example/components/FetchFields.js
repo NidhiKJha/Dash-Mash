@@ -41,16 +41,16 @@ render() {
             const { ISIN, Issuer_Name,Redemption_Date , Coupon_Rate_Actual} = post;            
             return (
               <Link to={"/pages/four/"+ ISIN }>
-              <div className= "Item_Card" key={index.toString()+ISIN.toString()}>
-                <div className = "checkbox">
-                  <span className="Item_Label mb-7">Compare</span>
-                  <input type = "checkbox" checked='checked' value = "true"></input></div>
+              <div className= "Item_Card  hover_me"   key={index.toString()+ISIN.toString()}>
+                <p className = "Item checkbox">
+                  <span className="Item_Label ">Compare</span>
+                  <input type = "checkbox" checked='checked' value = "true"></input>
+                </p>
                 <p className='Item'><span className="Item_Label" >ISIN</span><span className="Item_Value">{ISIN}</span></p>
                 <p className='Item'> <span className="Item_Label" >Issuer Name</span> <span className="Item_Value">{Issuer_Name}</span></p>
                 <p className='Item'><span className="Item_Label" >Redemption Date</span> <span className="Item_Value">{Redemption_Date }</span></p>
                 <p className='Item'><span className="Item_Label" >Coupon Rate Actual</span> <span className="Item_Value">{Coupon_Rate_Actual }</span></p>                
-                <hr />
-              </div>
+                </div>
               </Link>
             );
           })

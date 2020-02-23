@@ -11,9 +11,9 @@
 .Item {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
   padding: 0.5em;
-  margin: 1em;
+  margin: 1em!important;
   flex:1;
 }
 
@@ -37,16 +37,8 @@
 
 .checkbox{
 
-    display: -webkit-box;
-    display: flex;
-    flex-direction: column;
-    -webkit-box-pack: center;
-    justify-content: center;
-    margin: 2px 16px 0 0;
-    -webkit-box-align: center;
     align-items: center;
-    
-
+    max-width:70px;
 }
 
 .mb-7{
@@ -55,4 +47,10 @@
 
 .ml-5{
   margin-left:5px;
+}
+
+
+.hover_me:hover{
+
+  background-color:#E1F5FE;
 }
