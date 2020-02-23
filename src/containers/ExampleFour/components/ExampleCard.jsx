@@ -1,6 +1,8 @@
 import React, { Component, useState } from "react";
 import axios from "axios";
 import { Row, Col } from "reactstrap";
+import "./CardList.css";
+
 
 class RegistrationForm extends Component {
   state = {
@@ -40,13 +42,16 @@ class RegistrationForm extends Component {
       <div style={{ width: "100%" }}>
         <Col md={12}>
           <div style={{ display: "flex", width: "100%" }}>
-            <div style={{ flex: 4 }}>
-              <h2>A.K. Capital Corporation Private Limited</h2>
-              <p>A.K. Capital Corporation Private Limited</p>
-              <p>Details</p>
+            <div className= "sideone" style={{ flex: 4 }}>
+              <div className= "firstTitle" >A.K. Capital Corporation Private Limited</div>
+              <br/>
+              <div className= "secondTitle">A.K. Capital Corporation Private Limited</div>
+               <br/>
+               <div className= "details">Details</div>
+              
               <table>
-                <tr>
-                  <td>ISIN</td>
+                <tr >
+                  <td color= "blue">ISIN</td>
                   <td>{this.props.uniqueId}</td>
                 </tr>
                 <tr>
@@ -59,7 +64,7 @@ class RegistrationForm extends Component {
                 </tr>
               </table>
             </div>
-            <div style={{ flex: 6 }}>
+            <div className= "sidetwo" style={{ flex: 6 }}>
               <div>
                 <button>BSE</button>
                 <button>NSE</button>

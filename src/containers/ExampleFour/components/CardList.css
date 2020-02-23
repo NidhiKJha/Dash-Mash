@@ -1,0 +1,44 @@
+.sideone{
+    background: url(https://bondbulls.com/assets/img/bondDetails/white_curve.svg) 0 0/cover;
+    height: 600px;
+    width: 40%;
+    padding: 120px 40px 0 10px;
+    margin-left: -2px;
+    
+    align-content: center!important;
+    justify-content: between;
+    display: block;
+}
+.firstTitle{
+    text-align: center;
+    font-size: 24px;
+    font-family: nunitoSansRegular!important;
+    font-color: black;
+    margin: 0;
+   
+   
+}
+
+.secondTitle{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: nunitoSansBold!important;
+    color: #283d4a;
+    margin: 10px 0;
+    text-align: left!important;
+    padding-left: .25rem!important;
+    
+}
+
+.display{
+    font-size: 14px;
+    font-family: nunitoSansRegular!important;
+    color: black;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    line-height: 23px;
+    max-height: 120px;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
