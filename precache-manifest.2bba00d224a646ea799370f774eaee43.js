@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7fa9652a973e9cca6c9",
-    "url": "/dash-mash/static/css/main.a534892d.chunk.css"
+    "revision": "a6ad8423ea98aed54dd0",
+    "url": "/dash-mash/static/css/main.6b838dc6.chunk.css"
   },
   {
-    "revision": "e7fa9652a973e9cca6c9",
-    "url": "/dash-mash/static/js/main.e7fa9652.chunk.js"
+    "revision": "a6ad8423ea98aed54dd0",
+    "url": "/dash-mash/static/js/main.a6ad8423.chunk.js"
   },
   {
     "revision": "d90738ea5d2d01ae24a2",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dash-mash/static/js/2.be73b0c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d2393957bc9a2d111f669a647e65ff5",
+    "revision": "643687fa071452c7285acfdb8fb951f9",
     "url": "/dash-mash/index.html"
   }
 ]);
