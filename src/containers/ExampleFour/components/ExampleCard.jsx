@@ -47,15 +47,15 @@ class RegistrationForm extends Component {
               <br/>
               <div className= "secondTitle">A.K. Capital Corporation Private Limited</div>
                <br/>
-               <div className= "details">Details</div>
-              
+               <div className= "details">Details of the company</div>
+              <br/>
               <table>
-                <tr >
-                  <td color= "blue">ISIN</td>
+                <tr>
+                  <td>ISIN</td>
                   <td>{this.props.uniqueId}</td>
                 </tr>
                 <tr>
-                  <td>Country </td>
+                  <td >Country </td>
                   <td>India </td>
                 </tr>
                 <tr>
@@ -65,10 +65,13 @@ class RegistrationForm extends Component {
               </table>
             </div>
             <div className= "sidetwo" style={{ flex: 6 }}>
-              <div>
-                <button>BSE</button>
-                <button>NSE</button>
-                <div></div>
+              <div className= "maran" >
+              <Col md={12}>
+                <button className="bs">BSE</button>
+                <button className="bs">NSE</button>
+                </Col>
+                </div>
+                <div>
                 Chart over here
               </div>
             </div>

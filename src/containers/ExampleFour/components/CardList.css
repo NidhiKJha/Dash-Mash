@@ -9,6 +9,16 @@
     justify-content: between;
     display: block;
 }
+
+.sidetwo{
+    background: url(https://bondbulls.com/assets/img/bondDetails/detailsbg.svg) 0 0/cover;
+    height: 600px;
+    width: 40%;
+    padding: 120px 40px 0 10px;
+}
+
+
+
 .firstTitle{
     text-align: center;
     font-size: 24px;
@@ -41,4 +51,21 @@
     max-height: 120px;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
+}
+
+.maran{
+    margin: -20px 0 10px!important;
+    border-radius: 2px;
+    overflow: hidden;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bs{
+    font-size:14;
+     font-family:NunitoSansRegular;
+     padding: 1px 24px;
+     align-content: right!important;
+     
+     
+     
 }
